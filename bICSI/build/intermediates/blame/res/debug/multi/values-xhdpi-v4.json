@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/values-xhdpi-v4/values-xhdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 63,
+                    "endOffset": 114
+                },
+                "from": {
+                    "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/exploded-aar/BICSI/facebookSDK/unspecified/res/values-xhdpi-v4/values-xhdpi-v4.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 63,
+                        "endOffset": 114
+                    }
+                }
+            }
+        ]
+    }
+]

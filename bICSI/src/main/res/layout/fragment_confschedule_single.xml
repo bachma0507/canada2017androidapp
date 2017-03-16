@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content" >
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    android:orientation="vertical" >
+
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            style="?android:attr/buttonStyleSmall"
+            android:text="Add to Schedule"
+            android:id="@+id/planner_button" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/functiontitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:textSize="25dip"
+            android:textStyle="bold"
+            android:paddingTop="10dip"
+            android:paddingBottom="10dip"
+            android:textColor="#43bd00"
+            android:text="title"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/functiondate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="10dip"
+            android:textStyle="bold"
+            android:textColor="#acacac"
+            android:layout_gravity="center"
+            android:text="date" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <TextView
+            android:id="@+id/functionstarttimestr"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dip"
+            android:paddingBottom="10dip"
+            android:textStyle="bold"
+            android:text="starttime"
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:paddingTop="10dip"
+            android:paddingBottom="10dip"
+            android:textStyle="bold"
+            android:text=" - "
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+
+        <TextView
+            android:id="@+id/functionendtimestr"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dip"
+            android:paddingBottom="10dip"
+            android:textStyle="bold"
+            android:text="endtime"
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="             "
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+
+        <Button
+            android:id="@+id/survey_button"
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Take Survey" />
+
+        <Button
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Notes"
+            android:id="@+id/notes_button" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+        
+        <TextView
+            android:id="@+id/functiondecsription"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="description" />
+	
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <TextView
+            android:id="@+id/functionlocation"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dip"
+            android:paddingBottom="10dip"
+            android:textStyle="bold"
+            android:text="location" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/speakers_label"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Speaker(s):"
+             android:textStyle="bold"/>
+</LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <TextView
+            android:id="@+id/trainer1fname"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="fname"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/space"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=" "
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/trainer1lname"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="lname"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+        
+        <TextView
+            android:id="@+id/trainer2fname"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="fname2"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/space2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=" "
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/trainer2lname"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="lname2"
+            android:textStyle="bold" />
+        
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <TextView
+            android:id="@+id/trainer3fname"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="fname3"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/space3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=" "
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/trainer3lname"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="lname3"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <TextView
+            android:id="@+id/trainer4fname"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="fname4"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/space4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=" "
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/trainer4lname"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="lname4"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <TextView
+            android:id="@+id/trainer5fname"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="fname5"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/space5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=" "
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/trainer5lname"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="lname5"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <TextView
+            android:id="@+id/trainer6fname"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="fname6"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/space6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=" "
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/trainer6lname"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="lname6"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+
+</LinearLayout>
+</ScrollView>

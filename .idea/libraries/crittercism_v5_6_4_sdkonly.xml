@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="crittercism_v5_6_4_sdkonly">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/bICSI/libs/crittercism_v5_6_4_sdkonly.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

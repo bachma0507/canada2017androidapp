@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/animator/slide_in_right.xml",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/animator/slide_in_right.xml"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/animator/slide_out_right.xml",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/animator/slide_out_right.xml"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/animator/slide_in_left.xml",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/animator/slide_in_left.xml"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/animator/slide_out_left.xml",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/animator/slide_out_left.xml"
+    }
+]

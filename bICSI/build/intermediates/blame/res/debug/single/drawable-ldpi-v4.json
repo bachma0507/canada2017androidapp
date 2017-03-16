@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-ldpi-v4/billow_bkgnd.png",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/drawable-ldpi/billow_bkgnd.png"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-ldpi-v4/training_icon.png",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/drawable-ldpi/training_icon.png"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-ldpi-v4/floorplan_icon.png",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/drawable-ldpi/floorplan_icon.png"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_launcher_web.png",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/drawable-ldpi/ic_launcher_web.png"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-ldpi-v4/confschedicon.png",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/drawable-ldpi/confschedicon.png"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-ldpi-v4/hotel_icon.png",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/drawable-ldpi/hotel_icon.png"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-ldpi-v4/contactus_icon.png",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/drawable-ldpi/contactus_icon.png"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-ldpi-v4/exhibitors_icon.png",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/drawable-ldpi/exhibitors_icon.png"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-ldpi-v4/surveys.png",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/drawable-ldpi/surveys.png"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-ldpi-v4/cec_icon.png",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/drawable-ldpi/cec_icon.png"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-ldpi-v4/exh_hall_sched.png",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/drawable-ldpi/exh_hall_sched.png"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-ldpi-v4/com_facebook_close.png",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/exploded-aar/BICSI/facebookSDK/unspecified/res/drawable-ldpi-v4/com_facebook_close.png"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-ldpi-v4/committee_icon.png",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/drawable-ldpi/committee_icon.png"
+    }
+]

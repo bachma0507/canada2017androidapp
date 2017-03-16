@@ -1,0 +1,29 @@
+<resources>
+
+    <style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+    </style>
+
+    <style name="AppTheme" parent="AppBaseTheme">
+        <item name="android:actionBarStyle">@style/MyActionBar</item>
+    </style>
+
+    <style name="MyActionBar" parent="android:Widget.Holo.Light.ActionBar.Solid.Inverse">
+        <item name="android:background">#101D3C</item>
+        <item name="android:titleTextStyle">@style/TitleColor</item>
+    </style>
+
+    <style name="TitleColor" parent="android:TextAppearance.Holo.Widget.ActionBar.Title">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+
+  <style name="Theme.Splash" parent="android:Theme">
+    <item name="android:windowBackground">@drawable/bicsi_splash</item>
+    <item name="android:windowNoTitle">true</item>
+  </style>
+  <style name="row1_customfont">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">#666666</item>        
+    </style>
+</resources>

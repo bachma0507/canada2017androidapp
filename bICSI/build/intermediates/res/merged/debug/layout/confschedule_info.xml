@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:padding="6dip" >
+
+
+		<TextView
+            android:id="@+id/textViewConfDay"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+             android:textStyle="bold"
+             android:textColor="#996633"
+             android:typeface="sans"
+            android:text="confday"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+		<TextView
+		    android:id="@+id/textViewConfDate"
+		    android:layout_width="fill_parent"
+		    android:layout_height="wrap_content"
+		    android:layout_alignLeft="@+id/textViewConfDay"
+		    android:layout_below="@+id/textViewConfDay"
+		    android:text="confdate"
+		    android:textAppearance="?android:attr/textAppearanceSmall"
+		    android:textColor="#343333"
+		    android:textStyle="bold" />
+
+		<ImageView
+		    android:id="@+id/imageView1"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:layout_alignBottom="@+id/textViewConfDate"
+		    android:layout_alignRight="@+id/textViewConfDay"
+		    android:src="@drawable/ic_action_forward" />
+
+</RelativeLayout>

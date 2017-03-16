@@ -1,0 +1,298 @@
+[
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/committee_icon.png",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/drawable-xxhdpi/committee_icon.png"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_pressed.9.png",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_plus_signin_btn_text_dark_focused.9.png",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_plus_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ffloor_maps.png",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/drawable-xxhdpi/ffloor_maps.png"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/my_favorite_exhibitors.png",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/drawable-xxhdpi/my_favorite_exhibitors.png"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/exh_hall_sched.png",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/drawable-xxhdpi/exh_hall_sched.png"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/cec_information.png",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/drawable-xxhdpi/cec_information.png"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/bicsi_splash.png",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/drawable-xxhdpi/bicsi_splash.png"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/my_schedule.png",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/drawable-xxhdpi/my_schedule.png"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_plus_signin_btn_text_dark_normal.9.png",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_plus_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/session_surveys.png",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/drawable-xxhdpi/session_surveys.png"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_disabled.9.png",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_google_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_plus_signin_btn_icon_dark_normal.9.png",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_plus_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/training_and_exams.png",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/drawable-xxhdpi/training_and_exams.png"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_google_signin_btn_text_light_normal.9.png",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_focused.9.png",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_google_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/committee_meetings.png",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/drawable-xxhdpi/committee_meetings.png"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_plus_signin_btn_icon_dark_pressed.9.png",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_plus_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_plus_signin_btn_icon_light_normal.9.png",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_plus_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_plus_signin_btn_icon_light_disabled.9.png",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_plus_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/confschedicon.png",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/drawable-xxhdpi/confschedicon.png"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_plus_signin_btn_icon_dark_disabled.9.png",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_plus_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/presentations.png",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/drawable-xxhdpi/presentations.png"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_disabled.9.png",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_google_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_normal.9.png",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_google_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_pressed.9.png",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_google_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/surveys.png",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/drawable-xxhdpi/surveys.png"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_launcher.png",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/billow_bkgnd.png",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/drawable-xxhdpi/billow_bkgnd.png"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/training_icon.png",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/drawable-xxhdpi/training_icon.png"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_action_forward.png",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/drawable-xxhdpi/ic_action_forward.png"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_full_open_on_phone.png",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_pressed.9.png",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_plus_signin_btn_text_light_normal.9.png",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_plus_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/cec_icon.png",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/drawable-xxhdpi/cec_icon.png"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/exhibitors_icon.png",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/drawable-xxhdpi/exhibitors_icon.png"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_plus_signin_btn_text_dark_pressed.9.png",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_plus_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_plus_signin_btn_icon_dark_focused.9.png",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_plus_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_plus_signin_btn_text_light_pressed.9.png",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_plus_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_launcher_web.png",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/drawable-xxhdpi/ic_launcher_web.png"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/my_session_notes.png",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/drawable-xxhdpi/my_session_notes.png"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/hotel_information.png",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/drawable-xxhdpi/hotel_information.png"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/exhibitorsnew.png",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/drawable-xxhdpi/exhibitorsnew.png"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/find_area_activities.png",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/drawable-xxhdpi/find_area_activities.png"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/conference_schedule.png",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/drawable-xxhdpi/conference_schedule.png"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/sponsorsnew.png",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/drawable-xxhdpi/sponsorsnew.png"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/speakersnew.png",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/drawable-xxhdpi/speakersnew.png"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_plus_signin_btn_icon_light_pressed.9.png",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_plus_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/bicsi_welcome.png",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/drawable-xxhdpi/bicsi_welcome.png"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/concurrent_sessions.png",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/drawable-xxhdpi/concurrent_sessions.png"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/email.png",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/drawable-xxhdpi/email.png"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/hotel_icon.png",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/drawable-xxhdpi/hotel_icon.png"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/contactus_icon.png",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/drawable-xxhdpi/contactus_icon.png"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/contact_us.png",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/drawable-xxhdpi/contact_us.png"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/twitter.png",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/drawable-xxhdpi/twitter.png"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/speakers.png",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/drawable-xxhdpi/speakers.png"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_disabled.9.png",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_google_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/exhibitors.png",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/drawable-xxhdpi/exhibitors.png"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_google_signin_btn_text_light_disabled.9.png",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_google_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_plus_signin_btn_text_dark_disabled.9.png",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_plus_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_google_signin_btn_text_light_pressed.9.png",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_google_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_plus_signin_btn_text_light_focused.9.png",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_plus_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_plus_signin_btn_icon_light_focused.9.png",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_plus_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_normal.9.png",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_focused.9.png",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_google_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/sponsors.png",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/drawable-xxhdpi/sponsors.png"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/facebook.png",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/drawable-xxhdpi/facebook.png"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_plus_signin_btn_text_light_disabled.9.png",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_plus_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_focused.9.png",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_google_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/floorplan_icon.png",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/drawable-xxhdpi/floorplan_icon.png"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_google_signin_btn_text_light_focused.9.png",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_google_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/email_your_comments.png",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/drawable-xxhdpi/email_your_comments.png"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/exhibit_hall_schedule.png",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/drawable-xxhdpi/exhibit_hall_schedule.png"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_normal.9.png",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_google_signin_btn_icon_dark_normal.9.png"
+    }
+]

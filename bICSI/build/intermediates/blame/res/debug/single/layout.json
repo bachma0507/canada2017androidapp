@@ -1,0 +1,246 @@
+[
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/layout/com_facebook_picker_title_bar.xml",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/exploded-aar/BICSI/facebookSDK/unspecified/res/layout/com_facebook_picker_title_bar.xml"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/layout/com_facebook_search_bar_layout.xml",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/exploded-aar/BICSI/facebookSDK/unspecified/res/layout/com_facebook_search_bar_layout.xml"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/layout/gallery_view.xml",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/layout/gallery_view.xml"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/layout/com_facebook_picker_list_row.xml",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/exploded-aar/BICSI/facebookSDK/unspecified/res/layout/com_facebook_picker_list_row.xml"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/layout/com_facebook_picker_list_section_header.xml",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/exploded-aar/BICSI/facebookSDK/unspecified/res/layout/com_facebook_picker_list_section_header.xml"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/layout/loginsignup.xml",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/layout/loginsignup.xml"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/layout/todo_row.xml",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/layout/todo_row.xml"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/layout/com_facebook_usersettingsfragment.xml",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/exploded-aar/BICSI/facebookSDK/unspecified/res/layout/com_facebook_usersettingsfragment.xml"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/layout/webview_survey.xml",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/layout/webview_survey.xml"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/layout/com_facebook_picker_search_box.xml",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/exploded-aar/BICSI/facebookSDK/unspecified/res/layout/com_facebook_picker_search_box.xml"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/layout/fragment_committee.xml",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/layout/fragment_committee.xml"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/layout/alerts_layout.xml",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/layout/alerts_layout.xml"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/layout/mybicsiactivity_webview.xml",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/layout/mybicsiactivity_webview.xml"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/layout/fragment_confschedule.xml",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/layout/fragment_confschedule.xml"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/layout/loginsuccess.xml",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/layout/loginsuccess.xml"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/layout/alertactivity_webview.xml",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/layout/alertactivity_webview.xml"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/layout/com_facebook_placepickerfragment.xml",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/exploded-aar/BICSI/facebookSDK/unspecified/res/layout/com_facebook_placepickerfragment.xml"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/layout/activity_webview.xml",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/layout/activity_webview.xml"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/layout/com_facebook_tooltip_bubble.xml",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/exploded-aar/BICSI/facebookSDK/unspecified/res/layout/com_facebook_tooltip_bubble.xml"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/layout/twitter_main.xml",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/layout/twitter_main.xml"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/layout/com_facebook_friendpickerfragment.xml",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/exploded-aar/BICSI/facebookSDK/unspecified/res/layout/com_facebook_friendpickerfragment.xml"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/layout/list_item_text_selector.xml",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/layout/list_item_text_selector.xml"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/layout/com_facebook_picker_title_bar_stub.xml",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/exploded-aar/BICSI/facebookSDK/unspecified/res/layout/com_facebook_picker_title_bar_stub.xml"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/layout/confschedule_info.xml",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/layout/confschedule_info.xml"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/layout/activity_exhibit_hall_schedule.xml",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/layout/activity_exhibit_hall_schedule.xml"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/layout/fragment_session_note.xml",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/layout/fragment_session_note.xml"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/layout/home_layout.xml",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/layout/home_layout.xml"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/layout/actvity_new_meal.xml",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/layout/actvity_new_meal.xml"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/layout/com_facebook_picker_image.xml",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/exploded-aar/BICSI/facebookSDK/unspecified/res/layout/com_facebook_picker_image.xml"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/layout/com_facebook_login_activity_layout.xml",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/exploded-aar/BICSI/facebookSDK/unspecified/res/layout/com_facebook_login_activity_layout.xml"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/layout/gallery_signup.xml",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/layout/gallery_signup.xml"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/layout/planner_schedule.xml",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/layout/planner_schedule.xml"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/layout/fragment_ehschedule_detail.xml",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/layout/fragment_ehschedule_detail.xml"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/layout/listview_gallery.xml",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/layout/listview_gallery.xml"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/layout/fragment_confschedule_detail.xml",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/layout/fragment_confschedule_detail.xml"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/layout/fragment_committee_single.xml",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/layout/fragment_committee_single.xml"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/layout/com_facebook_picker_checkbox.xml",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/exploded-aar/BICSI/facebookSDK/unspecified/res/layout/com_facebook_picker_checkbox.xml"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/layout/socialactivity_webview.xml",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/layout/socialactivity_webview.xml"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/layout/com_facebook_placepickerfragment_list_row.xml",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/exploded-aar/BICSI/facebookSDK/unspecified/res/layout/com_facebook_placepickerfragment_list_row.xml"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/layout/committee_info_list.xml",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/layout/committee_info_list.xml"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/layout/fragment_webview.xml",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/layout/fragment_webview.xml"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/layout/com_facebook_picker_activity_circle_row.xml",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/exploded-aar/BICSI/facebookSDK/unspecified/res/layout/com_facebook_picker_activity_circle_row.xml"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/layout/planner_schedule_info_list.xml",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/layout/planner_schedule_info_list.xml"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/layout/activity_conf_sched.xml",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/layout/activity_conf_sched.xml"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/layout/fragment_confschedule_single.xml",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/layout/fragment_confschedule_single.xml"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/layout/fragment_about_us.xml",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/layout/fragment_about_us.xml"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/layout/activity_home.xml",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/layout/activity_home.xml"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/layout/fragment_new_upload.xml",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/layout/fragment_new_upload.xml"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/layout/welcome.xml",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/layout/welcome.xml"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/layout/fragment_new_share.xml",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/layout/fragment_new_share.xml"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/layout/splash_screen_layout.xml",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/layout/splash_screen_layout.xml"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/layout/fragment_import_schedule.xml",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/layout/fragment_import_schedule.xml"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/layout/confschedule_detail_info_list.xml",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/layout/confschedule_detail_info_list.xml"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/layout/alert_rowlayout.xml",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/layout/alert_rowlayout.xml"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/layout/fragment_planner_single.xml",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/layout/fragment_planner_single.xml"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/layout/fragment_camera.xml",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/layout/fragment_camera.xml"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/layout/social_media_layout.xml",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/layout/social_media_layout.xml"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/layout/schedule_info.xml",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/layout/schedule_info.xml"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/layout/fragment_ehschedule.xml",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/layout/fragment_ehschedule.xml"
+    }
+]

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lint>
+    <issue id="NewApi">
+        <ignore path="src/org/bicsi/canada2014/fragment/EhallSchedDetailFragment2.java" />
+    </issue>
+</lint>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:padding="6dip" >
+
+    <TextView
+        android:id="@+id/textViewfunctiontitle"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#996633"
+        android:text="functiontitle"
+        android:typeface="sans"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textViewFUNCTIONCD"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="hidden"
+        android:textStyle="bold"
+        android:visibility="gone" />
+    
+    <TextView
+        android:id="@+id/textViewlocationname"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="hidden"
+        android:textStyle="bold"
+        android:visibility="gone" />
+    
+    <TextView
+        android:id="@+id/textViewfunctiondescription"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="hidden"
+        android:textStyle="bold"
+        android:visibility="gone" />
+    
+    <TextView 
+        android:id="@+id/textViewfunctionStartTime"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="hidden"
+        android:textStyle="bold"
+        android:visibility="gone"
+        />
+    
+    <TextView
+        android:id="@+id/textViewfunctionEndTime"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="hidden"
+        android:textStyle="bold"
+        android:visibility="gone"
+        />
+    
+    
+
+    <TextView
+        android:id="@+id/textViewfunctionStartTimeStr"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/textViewfunctiontitle"
+        android:layout_below="@+id/textViewfunctiontitle"
+        android:layout_marginTop="30dp"
+        android:textColor="#343434"
+        android:text="functionstarttime"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textViewfunctiondate"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/textViewfunctiontitle"
+        android:layout_marginTop="5dip"
+        android:textColor="#343434"
+        android:text="functiondate"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textViewfunctionEndTimeStr"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/textView1"
+        android:layout_alignBottom="@+id/textView1"
+        android:layout_toRightOf="@+id/textView1"
+        android:textColor="#343434"
+        android:text="functionendtime"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="25dp"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/textViewfunctionStartTimeStr"
+        android:layout_alignBottom="@+id/textViewfunctionStartTimeStr"
+        android:layout_marginLeft="17dp"
+        android:textColor="#343434"
+        android:layout_toRightOf="@+id/textViewfunctionStartTimeStr"
+        android:text=" - "
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@+id/textViewfunctiondate"
+        android:layout_below="@+id/textViewfunctiontitle"
+        android:src="@drawable/ic_action_forward" />
+
+</RelativeLayout>

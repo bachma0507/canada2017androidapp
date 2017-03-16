@@ -1,0 +1,20 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    tools:context=".SplashScreen" >
+
+   
+    <ImageView		
+        	android:id="@+id/imgid"	  
+			android:layout_width="match_parent"
+			android:layout_height="match_parent"
+			android:src="@drawable/bicsi_splash" 
+			android:layout_gravity="center_horizontal"
+			android:scaleType="fitXY"
+			android:background="#a1bbc8"
+			android:contentDescription="logo"
+			
+			/>
+
+</RelativeLayout>
