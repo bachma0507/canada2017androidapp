@@ -1105,10 +1105,16 @@ public class MainActivity extends Activity implements
         //actionBar.setBackgroundDrawable(getResources().getDrawable(R.drawable.t_bckgrd));
 
         tabList1.add(new HomeFragment());
-        tabList2.add(new AlertsFragment());
+        //tabList2.add(new AlertsFragment());
         tabList3.add(new GalleryLoginFragment());
         tabList5.add(new PlannerScheduleFragment());
 
+
+        Bundle bundlen = new Bundle();
+        bundlen.putString("URL", "http://www.speedyreference.com/backendless/backendlessget2.php");
+        Fragment newFragmentn = new WebviewFragment();
+        newFragmentn.setArguments(bundlen);
+        tabList2.add(newFragmentn);
 
         Bundle bundlem = new Bundle();
         //bundlem.putString("URL", "http://www.bicsi.org/m/mybicsi.aspx");
@@ -1576,7 +1582,12 @@ public class MainActivity extends Activity implements
                 if (tabList2.size() > 0) {
                     oldTab = tabList2.remove(tabList2.size() - 1);
                     tabList2.clear();
-                    tabList2.add(new AlertsFragment());
+                    //tabList2.add(new AlertsFragment());
+                    Bundle bundlen = new Bundle();
+                    bundlen.putString("URL", "http://www.speedyreference.com/backendless/backendlessget2.php");
+                    Fragment newFragmentn = new WebviewFragment();
+                    newFragmentn.setArguments(bundlen);
+                    tabList2.add(newFragmentn);
                     tab = tabList2.get(tabList2.size() - 1);
                 }
                 break;
@@ -1593,7 +1604,8 @@ public class MainActivity extends Activity implements
                     oldTab = tabList4.remove(tabList4.size() - 1);
                     tabList4.clear();
                     Bundle bundlem = new Bundle();
-                    bundlem.putString("URL", "http://www.bicsi.org/m/mybicsi.aspx");
+                    //bundlem.putString("URL", "http://www.bicsi.org/m/mybicsi.aspx");
+                    bundlem.putString("URL", "http://www.bicsi.org/m/Login_App.aspx");
                     Fragment newFragmentm = new WebviewFragment();
                     newFragmentm.setArguments(bundlem);
                     tabList4.add(newFragmentm);
