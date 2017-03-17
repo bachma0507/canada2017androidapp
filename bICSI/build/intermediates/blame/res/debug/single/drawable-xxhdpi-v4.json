@@ -108,12 +108,12 @@
         "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/drawable-xxhdpi/surveys.png"
     },
     {
-        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_launcher.png",
-        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/drawable-xxhdpi/ic_launcher.png"
-    },
-    {
         "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/billow_bkgnd.png",
         "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/drawable-xxhdpi/billow_bkgnd.png"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_launcher.png",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/drawable-xxhdpi/ic_launcher.png"
     },
     {
         "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/training_icon.png",

@@ -153,7 +153,7 @@
             android:value="6D4D3-EA049" />
         <meta-data
             android:name="PW_PROJECT_ID"
-            android:value="A288655886188" />
+            android:value="A1079932883690" />
 
         <activity
             android:name="org.bicsi.canada2014.AndroidTwitterSample"

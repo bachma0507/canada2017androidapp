@@ -70,10 +70,10 @@ import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
 
-import com.parse.ParseAnalytics;
-import com.parse.ParseInstallation;
-import com.parse.ParseObject;
-import com.parse.ParseQuery;
+//import com.parse.ParseAnalytics;
+//import com.parse.ParseInstallation;
+//import com.parse.ParseObject;
+//import com.parse.ParseQuery;
 import com.pushio.manager.PushIOManager;
 
 import com.pushwoosh.PushManager;
@@ -99,7 +99,7 @@ public class MainActivity extends Activity implements
     private TextView txtTab5;
     private ImageView imgTab1;
     private ImageView imgTab2;
-    private ImageView imgTab3;
+    //private ImageView imgTab3;
     private ImageView imgTab4;
     private ImageView imgTab5;
     private ArrayList<Fragment> tabList1 = new ArrayList<Fragment>();
@@ -125,7 +125,7 @@ public class MainActivity extends Activity implements
         @Override
         public void run() {
             try {
-                getUnreadCount();
+                //getUnreadCount();
                 Handler myHandler = new Handler();
                 myHandler.postDelayed(mMyRunnable, WAIT_TIME);
             } catch (Exception e) {
@@ -276,10 +276,10 @@ public class MainActivity extends Activity implements
 
         GetURL();
 
-        ParseInstallation.getCurrentInstallation().saveInBackground();
-        ParseAnalytics.trackAppOpened(getIntent());
+        //ParseInstallation.getCurrentInstallation().saveInBackground();
+        //ParseAnalytics.trackAppOpened(getIntent());
 
-        Crittercism.initialize(getApplicationContext(), "b77b31a420b041e69e8bf800a852089000555300");
+        Crittercism.initialize(getApplicationContext(), "b43c8fbaa6fb4e3688011041bdeecf9e00555300");
 
         setupTabs();
         resetTabs();
@@ -690,7 +690,7 @@ public class MainActivity extends Activity implements
     private class GetJSONData  extends AsyncTask<Void, Void, Void> {
         //call webservice
         private ProgressDialog pDialog;
-        private static final String url = "https://webservice.bicsi.org/json/reply/MobSession?SessionAltCd=CN-WINTER-FL-0117";
+        private static final String url = "https://webservice.bicsi.org/json/reply/MobSession?SessionAltCd=CN-CANADA-BC-0517";
         //private final Uri uri = Uri.parse("https://webservice.bicsi.org/json/reply/MobSession?SessionAltCd=CN-FALL-NV-0915");
         private String myLongStr;
         private String myLongStrEnd;
@@ -965,7 +965,7 @@ public class MainActivity extends Activity implements
 
     public void GetURL(){
         // WebServer Request URL
-        String serverURL = "http://speedyreference.com/ehscheduleW17.php";
+        String serverURL = "http://speedyreference.com/ehscheduleC17.php";
 
         // Use AsyncTask execute Method To Prevent ANR Problem
         new LongOperation().execute(serverURL);
@@ -973,7 +973,7 @@ public class MainActivity extends Activity implements
 
     public void GetURLCSched(){
         // WebServer Request URL
-        String serverURL = "http://speedyreference.com/cscheduleW17.php";
+        String serverURL = "http://speedyreference.com/cscheduleC17.php";
 
         // Use AsyncTask execute Method To Prevent ANR Problem
         new LongOperationCSched().execute(serverURL);
@@ -995,7 +995,7 @@ public class MainActivity extends Activity implements
         ((ImageView)findViewById(R.id.imgTab1)).setImageResource(R.drawable.icons_home_sel);
         ((TextView)findViewById(R.id.txtHome)).setTextColor(getResources().getColor(R.color.bicsi_yellow));
         tab2 = (LinearLayout) findViewById(R.id.layoutTab2);
-        tab3 = (LinearLayout) findViewById(R.id.layoutTab3);
+        //tab3 = (LinearLayout) findViewById(R.id.layoutTab3);
         tab4 = (LinearLayout) findViewById(R.id.layoutTab4);
         tab5 = (LinearLayout) findViewById(R.id.layoutTab5);
 
@@ -1003,20 +1003,20 @@ public class MainActivity extends Activity implements
         txtTab1 = (TextView)findViewById(R.id.txtHome);
 
         txtTab2 = (TextView)findViewById(R.id.txtAlerts);
-        txtTab3 = (TextView)findViewById(R.id.txtSocial);
+        //txtTab3 = (TextView)findViewById(R.id.txtSocial);
         txtTab4 = (TextView)findViewById(R.id.txtMyBicsi);
         txtTab5 = (TextView) findViewById(R.id.txtMySched);
 
         imgTab1 = (ImageView)findViewById(R.id.imgTab1);
         imgTab2 = (ImageView)findViewById(R.id.imgTab2);
-        imgTab3 = (ImageView)findViewById(R.id.imgTab3);
+        //imgTab3 = (ImageView)findViewById(R.id.imgTab3);
         imgTab4 = (ImageView)findViewById(R.id.imgTab4);
         txtHomeUnreadCount = (TextView)findViewById(R.id.txtAlertsUnreadCount);
         imgTab5 = (ImageView) findViewById(R.id.imgTab5);
 
         tab1.setOnClickListener(textView_listener);
         tab2.setOnClickListener(textView_listener);
-        tab3.setOnClickListener(textView_listener);
+        //tab3.setOnClickListener(textView_listener);
         tab4.setOnClickListener(textView_listener);
         tab5.setOnClickListener(textView_listener);
 
@@ -1349,8 +1349,8 @@ public class MainActivity extends Activity implements
                 txtTab1.setTextColor(getResources().getColor(R.color.bicsi_yellow));
                 imgTab2.setImageResource(R.drawable.icons_alerts);
                 txtTab2.setTextColor(Color.WHITE);
-                imgTab3.setImageResource(R.drawable.icon_gallery);
-                txtTab3.setTextColor(Color.WHITE);
+                //imgTab3.setImageResource(R.drawable.icon_gallery);
+                //txtTab3.setTextColor(Color.WHITE);
                 imgTab4.setImageResource(R.drawable.icons_mybicsi);
                 txtTab4.setTextColor(Color.WHITE);
                 imgTab5.setImageResource(R.drawable.icons_social);
@@ -1362,8 +1362,8 @@ public class MainActivity extends Activity implements
                 txtTab1.setTextColor(Color.WHITE);
                 imgTab2.setImageResource(R.drawable.icons_alerts_sel);
                 txtTab2.setTextColor(getResources().getColor(R.color.bicsi_yellow));
-                imgTab3.setImageResource(R.drawable.icon_gallery);
-                txtTab3.setTextColor(Color.WHITE);
+                //imgTab3.setImageResource(R.drawable.icon_gallery);
+                //txtTab3.setTextColor(Color.WHITE);
                 imgTab4.setImageResource(R.drawable.icons_mybicsi);
                 txtTab4.setTextColor(Color.WHITE);
                 imgTab5.setImageResource(R.drawable.icons_social);
@@ -1374,8 +1374,8 @@ public class MainActivity extends Activity implements
                 txtTab1.setTextColor(Color.WHITE);
                 imgTab2.setImageResource(R.drawable.icons_alerts);
                 txtTab2.setTextColor(Color.WHITE);
-                imgTab3.setImageResource(R.drawable.icon_gallery_sel);
-                txtTab3.setTextColor(getResources().getColor(R.color.bicsi_yellow));
+                //imgTab3.setImageResource(R.drawable.icon_gallery_sel);
+                //txtTab3.setTextColor(getResources().getColor(R.color.bicsi_yellow));
                 imgTab4.setImageResource(R.drawable.icons_mybicsi);
                 txtTab4.setTextColor(Color.WHITE);
                 imgTab5.setImageResource(R.drawable.icons_social);
@@ -1386,8 +1386,8 @@ public class MainActivity extends Activity implements
                 txtTab1.setTextColor(Color.WHITE);
                 imgTab2.setImageResource(R.drawable.icons_alerts);
                 txtTab2.setTextColor(Color.WHITE);
-                imgTab3.setImageResource(R.drawable.icon_gallery);
-                txtTab3.setTextColor(Color.WHITE);
+                //imgTab3.setImageResource(R.drawable.icon_gallery);
+                //txtTab3.setTextColor(Color.WHITE);
                 imgTab4.setImageResource(R.drawable.icons_mybicsi_sel);
                 txtTab4.setTextColor(getResources().getColor(R.color.bicsi_yellow));
                 imgTab5.setImageResource(R.drawable.icons_social);
@@ -1398,8 +1398,8 @@ public class MainActivity extends Activity implements
                 txtTab1.setTextColor(Color.WHITE);
                 imgTab2.setImageResource(R.drawable.icons_alerts);
                 txtTab2.setTextColor(Color.WHITE);
-                imgTab3.setImageResource(R.drawable.icon_gallery);
-                txtTab3.setTextColor(Color.WHITE);
+                //imgTab3.setImageResource(R.drawable.icon_gallery);
+                //txtTab3.setTextColor(Color.WHITE);
                 imgTab4.setImageResource(R.drawable.icons_mybicsi);
                 txtTab4.setTextColor(Color.WHITE);
                 imgTab5.setImageResource(R.drawable.icons_social_sel);
@@ -1458,9 +1458,11 @@ public class MainActivity extends Activity implements
                 navigateToTabFragment(0);
             } else if (id == R.id.layoutTab2) {
                 navigateToTabFragment(1);
-            } else if (id == R.id.layoutTab3) {
-                navigateToTabFragment(2);
-            } else if (id == R.id.layoutTab4) {
+            }
+            //else if (id == R.id.layoutTab3) {
+            //    navigateToTabFragment(2);
+            //}
+            else if (id == R.id.layoutTab4) {
                 navigateToTabFragment(3);
             } else if (id == R.id.layoutTab5)
                 navigateToTabFragment(4);
@@ -1734,7 +1736,7 @@ public class MainActivity extends Activity implements
     @Override
     protected void onResume() {
         super.onResume();
-        getUnreadCount();
+        //getUnreadCount();
         registerBR();
         //Re-register receivers on resume
         registerReceivers();
@@ -1772,7 +1774,7 @@ public class MainActivity extends Activity implements
         }
     }
 
-    public void getUnreadCount(){
+    /*public void getUnreadCount(){
         try {
             ParseQuery<ParseObject> query = new ParseQuery<ParseObject>("Alerts");
             query.orderByDescending("_created_at");
@@ -1796,7 +1798,7 @@ public class MainActivity extends Activity implements
             showHomeUnreadCount(1);
             e.printStackTrace();
         }
-    }
+    }*/
 
     /**
      * getSharedPreferences
@@ -1833,11 +1835,11 @@ public class MainActivity extends Activity implements
         // MapBuilder.createEvent().build() returns a Map of event fields and values
         // that are set and sent with the hit.
         easyTracker.send(MapBuilder
-                        .createEvent("ui_action",     // Event category (required)
-                                "button_press",  // Event action (required)
-                                label,   // Event label
-                                null)            // Event value
-                        .build()
+                .createEvent("ui_action",     // Event category (required)
+                        "button_press",  // Event action (required)
+                        label,   // Event label
+                        null)            // Event value
+                .build()
         );
     }
     //No need to override this interface method since the interface no longer exists
@@ -1930,7 +1932,7 @@ public class MainActivity extends Activity implements
 MizeUtil.NavigateToTabFragmentListener, PromptReturnListener, OnClickListener */
 /*EhallSchedFragment2.OnSchedItemSelectedListener*//*
 {
-	
+
 	private static final String TAG = "MainActivity";
 	private static final int SECOND = 1000;
 	private static final int WAIT_TIME = 120 * SECOND;
@@ -1982,27 +1984,27 @@ MizeUtil.NavigateToTabFragmentListener, PromptReturnListener, OnClickListener */
 
 		}
 	};
-	
+
 	private PushIOManager mPushIOManager;
 	public String mWebViewURL = null;
-	
+
 	*/
 /*********************************************************************************
-	 * receiver
-	 *********************************************************************************//*
+ * receiver
+ *********************************************************************************//*
 
 	private BroadcastReceiver receiver = new BroadcastReceiver() {
 		public void onReceive(Context context, Intent intent) {
-		
+
 			handleIntent(intent);
 		}
 	};
-	
+
 	*/
 /**
-	 * handleIntent
-	 * 
-	 *//*
+ * handleIntent
+ *
+ *//*
 
 	private void handleIntent(Intent intent) {
 		   if (intent.getAction().equals(
@@ -2012,131 +2014,131 @@ MizeUtil.NavigateToTabFragmentListener, PromptReturnListener, OnClickListener */
 			if (success) {
 				String jsonString = intent
 						.getStringExtra(AsyncTaskPost.GET_UNREAD_COUNT_RETURN_VALUES);
-				
+
 				System.out.println("json response: "+jsonString);
-				
+
 					if(jsonString != null){
 						if(!jsonString.startsWith("[")){
 							jsonString = "["+jsonString+"]";
 						}
-						
+
 					}
-				
-				
+
+
 			}
 		}
 	}
-	 
+
 	@Override
     public void onStart() {
       super.onStart();
-      	EasyTracker.getInstance(this).activityStart(this);  
-      	EasyTracker.getInstance(mContext).activityStart(this); 
+      	EasyTracker.getInstance(this).activityStart(this);
+      	EasyTracker.getInstance(mContext).activityStart(this);
     }
 
 	//private SQLiteDB sqlite_obj;
 	 //List<String> list1, list2, list3, list4, list5;
 	 private SimpleCursorAdapter dataAdapter;
-    
+
     public void onCreate(Bundle savedInstanceState) {
       super.onCreate(savedInstanceState);
-      setContentView(R.layout.activity_main);    
-      
+      setContentView(R.layout.activity_main);
+
       //sqlite_obj = new SQLiteDB(MainActivity.this);
-      
-      
+
+
       GetURL();
-      
+
       ParseInstallation.getCurrentInstallation().saveInBackground();
-      ParseAnalytics.trackAppOpened(getIntent());   		
-        
+      ParseAnalytics.trackAppOpened(getIntent());
+
         Crittercism.initialize(getApplicationContext(), "5543d5958172e25e67906b49");
-        
+
         setupTabs();
-		resetTabs();		
-		
+		resetTabs();
+
 		Handler myHandler = new Handler();
 		myHandler.postDelayed(mMyRunnable, 1);
-		
+
 		GetURLCSched();
-		
+
 		new GetJSONData().execute();
-		
+
 		 }
-    
+
     ///
   private class LongOperation  extends AsyncTask<String, Void, Void> {
-	  
+
 	  	private SQLiteDB sqlite_obj = new SQLiteDB(mContext);
 	  	List<String> list1, list2, list3, list4, list5;
-	  	
+
 
   		private final HttpClient Client = new DefaultHttpClient();
           private String Content;
           private String Error = null;
           private ProgressDialog Dialog = new ProgressDialog(MainActivity.this);
-          String data =""; 
-        
-          int sizeData = 0;  
-        
-         
-         
+          String data ="";
+
+          int sizeData = 0;
+
+
+
           protected void onPreExecute() {
               // NOTE: You can call UI Element here.
-              
+
               //Start Progress Dialog (Message)
-            
+
               Dialog.setMessage("Updating data...");
               Dialog.show();
-             
+
               try{
                   // Set Request parameter
                   data +="&" + URLEncoder.encode("data", "UTF-8");
-                     
+
               } catch (UnsupportedEncodingException e) {
                   // TODO Auto-generated catch block
                   e.printStackTrace();
-              } 
-             
+              }
+
           }
-  
+
           // Call after onPreExecute method
           protected Void doInBackground(String... urls) {
-             
+
               */
 /************ Make Post Call To Web Server ***********//*
 
               BufferedReader reader=null;
-    
-                   // Send data 
+
+                   // Send data
                   try
-                  { 
-                   
+                  {
+
                      // Defined URL  where to send data
                      URL url = new URL(urls[0]);
-                      
+
                     // Send POST data request
-        
-                    URLConnection conn = url.openConnection(); 
-                    conn.setDoOutput(true); 
-                    OutputStreamWriter wr = new OutputStreamWriter(conn.getOutputStream()); 
-                    wr.write( data ); 
-                    wr.flush(); 
-               
-                    // Get the server response 
-                    
+
+                    URLConnection conn = url.openConnection();
+                    conn.setDoOutput(true);
+                    OutputStreamWriter wr = new OutputStreamWriter(conn.getOutputStream());
+                    wr.write( data );
+                    wr.flush();
+
+                    // Get the server response
+
                     reader = new BufferedReader(new InputStreamReader(conn.getInputStream()));
                     StringBuilder sb = new StringBuilder();
                     String line = null;
-                 
+
                       // Read Server Response
                       while((line = reader.readLine()) != null)
                           {
                                  // Append server response in string
                                  sb.append(line + " ");
                           }
-                     
-                      // Append Server Response To Content String 
+
+                      // Append Server Response To Content String
                      Content = sb.toString();
                   }
                   catch(Exception ex)
@@ -2147,54 +2149,54 @@ MizeUtil.NavigateToTabFragmentListener, PromptReturnListener, OnClickListener */
                   {
                       try
                       {
-          
+
                           reader.close();
                       }
-        
+
                       catch(Exception ex) {}
                   }
-             
+
               */
 /*****************************************************//*
 
               return null;
           }
-          
+
           protected void onPostExecute(Void unused) {
               // NOTE: You can call UI Element here.
-              
+
               // Close progress dialog
               Dialog.dismiss();
-              
+
               if (Error != null) {
-                  
+
                   System.out.println("Output : "+Error);
-                  
+
               } else {
-               
+
                   // Show Response Json On Screen (activity)
               	System.out.println( Content );
-                 
+
                */
 /****************** Start Parse Response JSON Data *************//*
 
-                 
+
                   String OutputData = "";
                   */
 /*JSONObject jsonResponse;*//*
 
-                       
+
                   try {
-                       
-                	
-                	
+
+
+
                        */
 /****** Creates a new JSONObject with name/value mappings from the JSON string. ********//*
 
                        */
 /*jsonResponse = new JSONObject(Content);*//*
 
-                       
+
                        */
 /***** Returns the value mapped by name if it exists and is a JSONArray. ***//*
 
@@ -2204,28 +2206,28 @@ MizeUtil.NavigateToTabFragmentListener, PromptReturnListener, OnClickListener */
                        */
 /*JSONArray jsonMainNode = jsonResponse.optJSONArray("");*//*
 
-                	
+
                   	JSONArray jsonMainNode = new JSONArray(Content);
-                       
+
                        */
 /*********** Process each JSON Node ************//*
 
-   
-                       int lengthJsonArr = jsonMainNode.length();  
-                     
+
+                       int lengthJsonArr = jsonMainNode.length();
+
                      list1 = new ArrayList<String>();
            			 list2 = new ArrayList<String>();
            			 list3 = new ArrayList<String>();
            			 list4 = new ArrayList<String>();
            			 list5 = new ArrayList<String>();
-   
-                       for(int i=0; i < lengthJsonArr; i++) 
+
+                       for(int i=0; i < lengthJsonArr; i++)
                        {
                            */
 /****** Get Object for each JSON node.***********//*
 
                            JSONObject jsonChildNode = jsonMainNode.getJSONObject(i);
-                           
+
                            */
 /******* Fetch node values **********//*
 
@@ -2235,137 +2237,137 @@ MizeUtil.NavigateToTabFragmentListener, PromptReturnListener, OnClickListener */
                            String sessionName = jsonChildNode.optString("sessionName").toString();
                            String sessionTime = jsonChildNode.optString("sessionTime").toString();
                            String desc = jsonChildNode.optString("desc").toString();
-                         
+
                            list1.add(jsonChildNode.getString("id"));
                            list2.add(jsonChildNode.getString("scheduleDate"));
                            list3.add(jsonChildNode.getString("sessionName"));
                            list4.add(jsonChildNode.getString("sessionTime"));
                            list5.add(jsonChildNode.getString("desc"));
-                           
-                           
-                           
-                         
+
+
+
+
                            OutputData += "ID: "+ id +" "
                                        + "ScheduleDate: "+ scheduleDate +" "
                                        + "ID sessionname: "+ sessionName +" "
                                        + "SessionTime: "+ sessionTime +" "
                                        + "Desc: "+ desc +" "
                                        +"\n";
-                         
+
                            sqlite_obj.open();
-                     	
+
                        	sqlite_obj.deleteAll();
-                     	
+
                        	for(int j=0; j<list1.size(); j++) {
-                     		
+
                        		sqlite_obj.insert(list1.get(j).toString(), list2.get(j).toString(), list3.get(j).toString(), list4.get(j).toString(), list5.get(j).toString());
 
-                       		
+
                        	}
-                       	
+
                        	sqlite_obj.close();
-                          
+
                       }
                    */
 /****************** End Parse Response JSON Data *************//*
 
-                      
+
                        //Show Parsed Output on screen (activity)
                        */
 /*jsonParsed.setText( OutputData );*//*
 
                        System.out.println(OutputData);
-                       
+
                      //Generate ListView from SQLite Database
                        //displayListView();
-                      
-                       
-                       
-                      
-                       
+
+
+
+
+
                    } catch (JSONException e) {
-           
+
                        e.printStackTrace();
                    }
-   
-                  
+
+
                }
-            
+
           }
 
  }
-  
+
   private class LongOperationCSched  extends AsyncTask<String, Void, Void> {
-	  
+
 	  	private SQLiteDBcShed sqlite_obj = new SQLiteDBcShed(mContext);
 	  	List<String> list1, list2, list3;
-		
+
 		private final HttpClient Client = new DefaultHttpClient();
         private String Content;
         private String Error = null;
         private ProgressDialog Dialog = new ProgressDialog(MainActivity.this);
-        String data =""; 
-      
-        int sizeData = 0;  
-      
-       
-       
+        String data ="";
+
+        int sizeData = 0;
+
+
+
         protected void onPreExecute() {
             // NOTE: You can call UI Element here.
-            
+
             //Start Progress Dialog (Message)
-          
+
             Dialog.setMessage("Updating data...");
             Dialog.show();
-           
+
             try{
                 // Set Request parameter
                 data +="&" + URLEncoder.encode("data", "UTF-8");
-                   
+
             } catch (UnsupportedEncodingException e) {
                 // TODO Auto-generated catch block
                 e.printStackTrace();
-            } 
-           
+            }
+
         }
 
         // Call after onPreExecute method
         protected Void doInBackground(String... urls) {
-           
+
             */
 /************ Make Post Call To Web Server ***********//*
 
             BufferedReader reader=null;
-  
-                 // Send data 
+
+                 // Send data
                 try
-                { 
-                 
+                {
+
                    // Defined URL  where to send data
                    URL url = new URL(urls[0]);
-                    
+
                   // Send POST data request
-      
-                  URLConnection conn = url.openConnection(); 
-                  conn.setDoOutput(true); 
-                  OutputStreamWriter wr = new OutputStreamWriter(conn.getOutputStream()); 
-                  wr.write( data ); 
-                  wr.flush(); 
-             
-                  // Get the server response 
-                  
+
+                  URLConnection conn = url.openConnection();
+                  conn.setDoOutput(true);
+                  OutputStreamWriter wr = new OutputStreamWriter(conn.getOutputStream());
+                  wr.write( data );
+                  wr.flush();
+
+                  // Get the server response
+
                   reader = new BufferedReader(new InputStreamReader(conn.getInputStream()));
                   StringBuilder sb = new StringBuilder();
                   String line = null;
-               
+
                     // Read Server Response
                     while((line = reader.readLine()) != null)
                         {
                                // Append server response in string
                                sb.append(line + " ");
                         }
-                   
-                    // Append Server Response To Content String 
+
+                    // Append Server Response To Content String
                    Content = sb.toString();
                 }
                 catch(Exception ex)
@@ -2376,54 +2378,54 @@ MizeUtil.NavigateToTabFragmentListener, PromptReturnListener, OnClickListener */
                 {
                     try
                     {
-        
+
                         reader.close();
                     }
-      
+
                     catch(Exception ex) {}
                 }
-           
+
             */
 /*****************************************************//*
 
             return null;
         }
-        
+
         protected void onPostExecute(Void unused) {
             // NOTE: You can call UI Element here.
-            
+
             // Close progress dialog
             Dialog.dismiss();
-            
+
             if (Error != null) {
-                
+
                 System.out.println("Output : "+Error);
-                
+
             } else {
-             
+
                 // Show Response Json On Screen (activity)
             	System.out.println( Content );
-               
+
              */
 /****************** Start Parse Response JSON Data *************//*
 
-               
+
                 String OutputData = "";
                 */
 /*JSONObject jsonResponse;*//*
 
-                     
+
                 try {
-                     
-              	
-              	
+
+
+
                      */
 /****** Creates a new JSONObject with name/value mappings from the JSON string. ********//*
 
                      */
 /*jsonResponse = new JSONObject(Content);*//*
 
-                     
+
                      */
 /***** Returns the value mapped by name if it exists and is a JSONArray. ***//*
 
@@ -2433,102 +2435,102 @@ MizeUtil.NavigateToTabFragmentListener, PromptReturnListener, OnClickListener */
                      */
 /*JSONArray jsonMainNode = jsonResponse.optJSONArray("");*//*
 
-              	
+
                 	JSONArray jsonMainNode = new JSONArray(Content);
-                     
+
                      */
 /*********** Process each JSON Node ************//*
 
- 
-                     int lengthJsonArr = jsonMainNode.length();  
-                   
+
+                     int lengthJsonArr = jsonMainNode.length();
+
                    list1 = new ArrayList<String>();
          			 list2 = new ArrayList<String>();
          			 list3 = new ArrayList<String>();
-         			 
- 
-                     for(int i=0; i < lengthJsonArr; i++) 
+
+
+                     for(int i=0; i < lengthJsonArr; i++)
                      {
                          */
 /****** Get Object for each JSON node.***********//*
 
                          JSONObject jsonChildNode = jsonMainNode.getJSONObject(i);
-                         
+
                          */
 /******* Fetch node values **********//*
 
                          String id       = jsonChildNode.optString("id").toString();
                          String day     = jsonChildNode.optString("day").toString();
                          String date = jsonChildNode.optString("date").toString();
-                       
+
                          list1.add(jsonChildNode.getString("id"));
                          list2.add(jsonChildNode.getString("day"));
                          list3.add(jsonChildNode.getString("date"));
-                         
-                       
+
+
                          OutputData += "ID: "+ id +" "
                                      + "Day: "+ day +" "
                                      + "Date: "+ date +" "
                                      +"\n";
-                       
+
                          sqlite_obj.open();
-                   	
+
                      	sqlite_obj.deleteAll();
-                   	
+
                      	for(int j=0; j<list1.size(); j++) {
-                   		
+
                      		sqlite_obj.insert(list1.get(j).toString(), list2.get(j).toString(), list3.get(j).toString());
-                     		
-                     		
+
+
                      	}
-                     	
+
                      	sqlite_obj.close();
-                        
+
                     }
                  */
 /****************** End Parse Response JSON Data *************//*
 
-                    
+
                      //Show Parsed Output on screen (activity)
                      */
 /*jsonParsed.setText( OutputData );*//*
 
                      System.out.println(OutputData);
-                     
+
                    //Generate ListView from SQLite Database
                      //displayListView();
-                    
-                     
-                     
-                    
-                     
+
+
+
+
+
                  } catch (JSONException e) {
-         
+
                      e.printStackTrace();
                  }
- 
-                
+
+
              }
-          
+
         }
 
 }
-	 
+
   private class GetJSONData  extends AsyncTask<Void, Void, Void> {
 	  //call webservice
 	  private ProgressDialog pDialog;
 	  private static final String url = "https://webservice.bicsi.org/json/reply/MobSession?SessionAltCd=CN-FALL-NV-0915";
 	  private String myLongStr;
 	  private String myLongStrEnd;
-	  
+
 	  private static final String TAG_FUNCTIONS = "Functions";
-	  
+
 	  	private SQLiteDBAllData sqlite_obj = new SQLiteDBAllData(mContext);
-	  	
+
 	  	List<String> list1,list2,list3,list4,list5,list6,list7,list8,list9,list10,list11,list12,list13,list14,list15,list16,list17,list18,list19,list20,list21,list22,list23,list24,list25,list26,list27,list28,list29,list30,list31,list32,list33,list34,list35,list36,list37,list38,list39,list40,list41,list42,list43;
-	  	
+
 	  	JSONArray functions = null;
-	  	
+
 	  	@Override
 		protected void onPreExecute() {
 			super.onPreExecute();
@@ -2537,13 +2539,13 @@ MizeUtil.NavigateToTabFragmentListener, PromptReturnListener, OnClickListener */
 			pDialog.setMessage("Updating data...");
 			pDialog.setCancelable(false);
 			pDialog.show();
-			
+
 			sqlite_obj.open();
 			sqlite_obj.deleteAll();
 			sqlite_obj.close();
 
 		}
-	  	
+
 		@Override
 		protected Void doInBackground(Void... arg0) {
 			// Creating service handler class instance
@@ -2553,24 +2555,24 @@ MizeUtil.NavigateToTabFragmentListener, PromptReturnListener, OnClickListener */
 			String jsonStr = sh.makeServiceCall(url, ServiceHandler.GET);
 
 			Log.d("Response: ", "> " + jsonStr);
-			
+
 			String OutputData = "";
 
 			if (jsonStr != null) {
-				
-				
+
+
 				try {
-					
-					
+
+
 					JSONObject jsonObj = new JSONObject(jsonStr);
-					
+
 					// Getting JSON Array node
 					functions = jsonObj.getJSONArray(TAG_FUNCTIONS);
 
 					// looping through All Contacts
 					for (int i = 0; i < functions.length(); i++) {
 						JSONObject c = functions.getJSONObject(i);
-						
+
 						list1= new ArrayList<String>();
 						list2= new ArrayList<String>();
 						list3= new ArrayList<String>();
@@ -2614,11 +2616,11 @@ MizeUtil.NavigateToTabFragmentListener, PromptReturnListener, OnClickListener */
 						list41= new ArrayList<String>();
 						list42= new ArrayList<String>();
 						list43= new ArrayList<String>();
-						
-						
-						
-						
-		       			 
+
+
+
+
+
 					    */
 /*String FUNCTIONCD= c.optString("FUNCTIONCD").toString();
 						String functiontitle= c.optString("functiontitle").toString();
@@ -2664,9 +2666,9 @@ MizeUtil.NavigateToTabFragmentListener, PromptReturnListener, OnClickListener */
 						String trainer6state= c.optString("trainer6state").toString();
 						String trainer6country= c.optString("trainer6country").toString();*//*
 
-						 
 
-	                     
+
+
 						list1.add(c.getString("FUNCTIONCD"));
 						list2.add(c.getString("functiontitle"));
 						list3.add(c.getString("functiondescription"));
@@ -2709,48 +2711,48 @@ MizeUtil.NavigateToTabFragmentListener, PromptReturnListener, OnClickListener */
 						list40.add(c.getString("trainer6org"));
 						list41.add(c.getString("trainer6city"));
 						list42.add(c.getString("trainer6state"));
-						list43.add(c.getString("trainer6country")); 
-						
-						
+						list43.add(c.getString("trainer6country"));
+
+
 						String fucntioindate= c.optString("fucntioindate").toString();
 						String functionStartTime= c.optString("functionStartTime").toString();
 						String functionEndTime= c.optString("functionEndTime").toString();
-						
+
 						String myDate = fucntioindate + ", " + functionStartTime;
 						String myEndDate = fucntioindate + ", " + functionEndTime;
-						
+
 						Long myLDate = longDate(myDate);
 						Long myLEndDate = longDate(myEndDate);
-					
+
 						myLongStr = String.valueOf(myLDate);
 						myLongStrEnd = String.valueOf(myLEndDate);
-						
-						
+
+
 	                       */
 /*OutputData += "FUNCTIONCD: "+ FUNCTIONCD +" "
 	                                   + "Title: "+ functiontitle +" "
 	                                   + "Desc: "+ functiondescription +" "
 	                                   +"\n";*//*
 
-	                     
+
 	                       sqlite_obj.open();
-	                       
-						
+
+
 	                       for(int j=0; j<list1.size(); j++) {
-	                    	   
-	                    		
+
+
 	                      		sqlite_obj.insert(list1.get(j).toString(), list2.get(j).toString(), list3.get(j).toString(), list4.get(j).toString(), list5.get(j).toString(), myLongStr, list6.get(j).toString(), myLongStrEnd, list7.get(j).toString(), list8.get(j).toString(), list9.get(j).toString(), list10.get(j).toString(), list11.get(j).toString(), list12.get(j).toString(), list13.get(j).toString(), list14.get(j).toString(), list15.get(j).toString(), list16.get(j).toString(), list17.get(j).toString(), list18.get(j).toString(), list19.get(j).toString(), list20.get(j).toString(), list21.get(j).toString(), list22.get(j).toString(), list23.get(j).toString(), list24.get(j).toString(), list25.get(j).toString(), list26.get(j).toString(), list27.get(j).toString(), list28.get(j).toString(), list29.get(j).toString(), list30.get(j).toString(), list31.get(j).toString(), list32.get(j).toString(), list33.get(j).toString(), list34.get(j).toString(), list35.get(j).toString(), list36.get(j).toString(), list37.get(j).toString(), list38.get(j).toString(), list39.get(j).toString(), list40.get(j).toString(), list41.get(j).toString(), list42.get(j).toString(), list43.get(j).toString());
-	                      		
-	                      		
+
+
 	                      	}
-	                      	
+
 	                      	sqlite_obj.close();
-	                         
+
 	                     }
-					
+
 	                   System.out.println(OutputData);
-						
-						
+
+
 				} catch (JSONException e) {
 					e.printStackTrace();
 				}
@@ -2767,82 +2769,82 @@ MizeUtil.NavigateToTabFragmentListener, PromptReturnListener, OnClickListener */
 			// Dismiss the progress dialog
 			if (pDialog.isShowing())
 				pDialog.dismiss();
-			
+
 		}
-		
-		
+
+
 }
-  
+
   public long longDate (String sdate){
-	   
+
 	  //int intDate = (int) System.currentTimeMillis(); //Initializes var with current time in case parsing fails
 	  long longDate = System.currentTimeMillis(); //Initializes var with current time in case parsing fails
 	  SimpleDateFormat format = new SimpleDateFormat("mm-dd-yyyy, hh:mm a", Locale.US); //Describes date pattern
-	  format.setLenient(false); //enforces strict pattern matching  
-	     
+	  format.setLenient(false); //enforces strict pattern matching
+
 	  try {
 	   Date date = format.parse(sdate); //converts string to a date object
-	   longDate = date.getTime(); 
+	   longDate = date.getTime();
 	  } catch (ParseException e) {
 	  }
-	     
-	  return longDate;  
+
+	  return longDate;
 	  }
 
-  
+
   public void GetURL(){
 		// WebServer Request URL
        String serverURL = "http://speedyreference.com/ehscheduleC15.php";
-       
+
        // Use AsyncTask execute Method To Prevent ANR Problem
        new LongOperation().execute(serverURL);
 	}
-  
+
   public void GetURLCSched(){
 		// WebServer Request URL
      String serverURL = "http://speedyreference.com/cscheduleC15.php";
-     
+
      // Use AsyncTask execute Method To Prevent ANR Problem
      new LongOperationCSched().execute(serverURL);
 	}
-  
-  
+
+
     ////
     @Override
     public void onStop() {
       super.onStop();
-      EasyTracker.getInstance(this).activityStop(this);  
+      EasyTracker.getInstance(this).activityStop(this);
     }
-    
-    
-    private void setupTabs() 
+
+
+    private void setupTabs()
 	{
-		
+
 		tab1 = (LinearLayout) findViewById(R.id.layoutTab1);
 		((ImageView)findViewById(R.id.imgTab1)).setImageResource(R.drawable.icons_home_sel);
 		((TextView)findViewById(R.id.txtHome)).setTextColor(getResources().getColor(R.color.bicsi_yellow));
 		tab2 = (LinearLayout) findViewById(R.id.layoutTab2);
 		tab3 = (LinearLayout) findViewById(R.id.layoutTab3);
 		tab4 = (LinearLayout) findViewById(R.id.layoutTab4);
-		
-		
+
+
 		txtTab1 = (TextView)findViewById(R.id.txtHome);
-		
+
 		txtTab2 = (TextView)findViewById(R.id.txtAlerts);
 		txtTab3 = (TextView)findViewById(R.id.txtSocial);
 		txtTab4 = (TextView)findViewById(R.id.txtMyBicsi);
-				
+
 		imgTab1 = (ImageView)findViewById(R.id.imgTab1);
 		imgTab2 = (ImageView)findViewById(R.id.imgTab2);
 		imgTab3 = (ImageView)findViewById(R.id.imgTab3);
 		imgTab4 = (ImageView)findViewById(R.id.imgTab4);
 		txtHomeUnreadCount = (TextView)findViewById(R.id.txtAlertsUnreadCount);
-		
+
 		tab1.setOnClickListener(textView_listener);
 		tab2.setOnClickListener(textView_listener);
 		tab3.setOnClickListener(textView_listener);
 		tab4.setOnClickListener(textView_listener);
-		
+
 	}
 
     public static void trimCache(Context context) {
@@ -2859,12 +2861,12 @@ MizeUtil.NavigateToTabFragmentListener, PromptReturnListener, OnClickListener */
 	            }
 	        }
 	    }
-	} 
- 
+	}
+
 	*/
 /**resetTabs
-	 * 
-	 *//*
+ *
+ *//*
 
 	private void resetTabs()
 	{
@@ -2906,80 +2908,80 @@ MizeUtil.NavigateToTabFragmentListener, PromptReturnListener, OnClickListener */
 				fragmentTransaction.commit();
 			}
 		}
-		
 
-		
+
+
 		ActionBar actionBar = getActionBar();
 		tabList1.clear();
 		tabList2.clear();
 		tabList3.clear();
 		tabList4.clear();
 		//tabList5.clear();
-		
+
 		actionBar.setDisplayShowTitleEnabled(true);
-		
+
 		//actionBar.setBackgroundDrawable(getResources().getDrawable(R.drawable.t_bckgrd));
 
 		tabList1.add(new HomeFragment());
 		tabList2.add(new AlertsFragment());
 		tabList3.add(new GalleryLoginFragment());
-		
-		
+
+
 		Bundle bundlem = new Bundle();
 		bundlem.putString("URL", "http://www.bicsi.org/m/mybicsi.aspx");
 		Fragment newFragmentm = new WebviewFragment();
 		newFragmentm.setArguments(bundlem);
 		tabList4.add(newFragmentm);
-		
-		
+
+
 		FragmentManager fragmentManager = getFragmentManager();
 		FragmentTransaction fragmentTransaction = fragmentManager.beginTransaction();
 		Fragment tab = null;
 		tab = tabList1.get(tabList1.size() - 1);
-		
+
 		fragmentTransaction.add(R.id.content, tab);
 		fragmentTransaction.commit();
 		//addToTabList(tab, tabIndex);
-		
+
 
 	}
 	@Override
 	protected void onDestroy() {
 		super.onDestroy();
-		
+
 	}
 	@Override
 	protected void onNewIntent(Intent intent) {
 		setIntent(intent);
 	}
 
- 
+
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         getMenuInflater().inflate(R.menu.main, menu);
         return true;
     }
- 
-	
+
+
 
 	@Override
 	public void sendReturnValue(String value) {
 		// TODO Auto-generated method stub
-		
+
 	}
 
 	@Override
 	public void goToMap(Bundle bundle) {
 		// TODO Auto-generated method stub
-		
+
 	}
-	
+
 	public void navigateToTabFragment(Fragment newFragment, int tabIndex,
 			Bundle bundle) {
 		if (newFragment == null) {
 			return;
 		}
-		
+
 		FragmentManager fragmentManager = getFragmentManager();
 		FragmentTransaction fragmentTransaction = fragmentManager.beginTransaction();
 		Fragment oldFragment = null;
@@ -3016,7 +3018,7 @@ MizeUtil.NavigateToTabFragmentListener, PromptReturnListener, OnClickListener */
 		fragmentTransaction.remove(oldFragment);
 		fragmentTransaction.commit();
 
-		
+
 		mPreviousTabIndex = mCurrentTabIndex;
 		mCurrentTabIndex = tabIndex;
 
@@ -3036,10 +3038,10 @@ MizeUtil.NavigateToTabFragmentListener, PromptReturnListener, OnClickListener */
 		fragmentTransaction.commit();
 
 		addToTabList(newFragment, tabIndex);
-		
+
 
 	}
-	
+
 	@Override
 	public void navigateToTabFragment(Fragment newFragment, Bundle bundle) {
 
@@ -3125,7 +3127,7 @@ MizeUtil.NavigateToTabFragmentListener, PromptReturnListener, OnClickListener */
 		fragmentTransaction = fragmentManager.beginTransaction();
 		fragmentTransaction.remove(oldTab);
 		fragmentTransaction.commit();
-		
+
 		mPreviousTabIndex = mCurrentTabIndex;
 		mCurrentTabIndex = tabIndex;
 
@@ -3147,7 +3149,7 @@ MizeUtil.NavigateToTabFragmentListener, PromptReturnListener, OnClickListener */
 			txtTab3.setTextColor(Color.WHITE);
 			imgTab4.setImageResource(R.drawable.icons_mybicsi);
 			txtTab4.setTextColor(Color.WHITE);
-			
+
 			break;
 		case 1:
 			imgTab1.setImageResource(R.drawable.icons_home);
@@ -3168,7 +3170,7 @@ MizeUtil.NavigateToTabFragmentListener, PromptReturnListener, OnClickListener */
 			txtTab3.setTextColor(getResources().getColor(R.color.bicsi_yellow));
 			imgTab4.setImageResource(R.drawable.icons_mybicsi);
 			txtTab4.setTextColor(Color.WHITE);
-			
+
 			break;
 		case 3:
 			imgTab1.setImageResource(R.drawable.icons_home);
@@ -3183,15 +3185,15 @@ MizeUtil.NavigateToTabFragmentListener, PromptReturnListener, OnClickListener */
 		default:
 			break;
 		}
-		
+
 	}
 
 	*/
 /**
-	 * getCurrentTab
-	 * 
-	 * @return
-	 *//*
+ * getCurrentTab
+ *
+ * @return
+ *//*
 
 	public int getCurrentTab() {
 		int currentTab = 0;//TODO:get current tab index
@@ -3240,17 +3242,17 @@ MizeUtil.NavigateToTabFragmentListener, PromptReturnListener, OnClickListener */
 			}else if(id == R.id.layoutTab4)
 				navigateToTabFragment(3);
 			}
-	
+
 	};
-	
-	
+
+
 	//Restore this once home tab fragment has been added
 	@Override
 	public void onBackPressed() {
-		
+
 		onBackPressed(null);
 	}
-	
+
 	public void onBackPressed(Bundle bundle) {
 
 		int tabIndex = mCurrentTabIndex;
@@ -3304,7 +3306,7 @@ MizeUtil.NavigateToTabFragmentListener, PromptReturnListener, OnClickListener */
 		if((newTab == null) || (oldTab == null)){
 			return;
 		}
-		
+
 		FragmentManager fragmentManager = getFragmentManager();
 		FragmentTransaction fragmentTransaction = fragmentManager.beginTransaction();
 		if(oldTab.getClass().toString().contains("Webview")){
@@ -3315,10 +3317,10 @@ MizeUtil.NavigateToTabFragmentListener, PromptReturnListener, OnClickListener */
 		}
 		fragmentTransaction.commit();
 
-		
+
 		mPreviousTabIndex = mCurrentTabIndex;
 		mCurrentTabIndex = tabIndex;
-		
+
 
 		newTab.setArguments(bundle);
 
@@ -3373,9 +3375,9 @@ MizeUtil.NavigateToTabFragmentListener, PromptReturnListener, OnClickListener */
 				tab = tabList4.get(tabList4.size() - 1);
 			}
 			break;
-		
+
 		}
-		
+
 		if (oldTab != null) {
 			FragmentManager fragmentManager = getFragmentManager();
 			FragmentTransaction fragmentTransaction = fragmentManager.beginTransaction();
@@ -3383,19 +3385,19 @@ MizeUtil.NavigateToTabFragmentListener, PromptReturnListener, OnClickListener */
 			fragmentTransaction.commit();
 		}
 
-		
+
 		ActionBar actionBar = getActionBar();
 		actionBar.setDisplayShowTitleEnabled(true);
 		//actionBar.setIcon(R.drawable.ic_launcher_web);
 		//actionBar.setBackgroundDrawable(getResources().getDrawable(R.drawable.t_bckgrd));
-		
+
 		FragmentManager fragmentManager = getFragmentManager();
 		FragmentTransaction fragmentTransaction = fragmentManager.beginTransaction();
 
 
 		fragmentTransaction.add(R.id.content, tab);
 		fragmentTransaction.commit();
-		
+
 	}
 
 	@Override
@@ -3403,7 +3405,7 @@ MizeUtil.NavigateToTabFragmentListener, PromptReturnListener, OnClickListener */
 		if (newFragment == null) {
 			return;
 		}
-		
+
 		FragmentManager fragmentManager = getFragmentManager();
 		FragmentTransaction fragmentTransaction = fragmentManager.beginTransaction();
 		Fragment oldFragment = null;
@@ -3465,7 +3467,7 @@ MizeUtil.NavigateToTabFragmentListener, PromptReturnListener, OnClickListener */
 	@Override
 	public void onClick(View arg0) {
 		// TODO Auto-generated method stub
-		
+
 	}
 
 	@Override
@@ -3479,7 +3481,7 @@ MizeUtil.NavigateToTabFragmentListener, PromptReturnListener, OnClickListener */
 		return super.onMenuItemSelected(featureId, item);
 	    }
 	}
-	public void showHomeUnreadCount(int unreadCount) 
+	public void showHomeUnreadCount(int unreadCount)
 	{
 		if(unreadCount>=0)
 		{
@@ -3501,22 +3503,22 @@ MizeUtil.NavigateToTabFragmentListener, PromptReturnListener, OnClickListener */
 	protected void onResume() {
 		super.onResume();
 		getUnreadCount();
-		registerBR();			
+		registerBR();
 	}
-	
+
 	@Override
 	protected void onPause() {
 		super.onPause();
 		unregisterBRs();
 	}
-	
-	
+
+
 	*/
 /***********************************************************************************************************
-	 * registerBRs()
-	 * 
-	 * this provides a one stop place to register any BR's
-	 ***********************************************************************************************************//*
+ * registerBRs()
+ *
+ * this provides a one stop place to register any BR's
+ ***********************************************************************************************************//*
 
 	private void registerBR() {
 
@@ -3524,8 +3526,8 @@ MizeUtil.NavigateToTabFragmentListener, PromptReturnListener, OnClickListener */
 		// Activity...................
 		registerReceiver(receiver,
 				new IntentFilter(AsyncTaskPost.GET_UNREAD_COUNT_RETURN_INTENT));
-		
-		
+
+
 	}
 	private void unregisterBRs() {
 		try {
@@ -3535,38 +3537,38 @@ MizeUtil.NavigateToTabFragmentListener, PromptReturnListener, OnClickListener */
 			e.printStackTrace();
 		}
 	}
-	
+
 	public void getUnreadCount(){
 		try {
 			ParseQuery<ParseObject> query = new ParseQuery<ParseObject>("Alerts");
-			query.orderByDescending("_created_at");							
+			query.orderByDescending("_created_at");
 			List<ParseObject> todoslist = query.find();
-			
+
 			//AlertModel[] alertList = new Gson().fromJson(jsonString, AlertModel[].class);
 			if(todoslist != null){
 				Date newDate = todoslist.get(0).getUpdatedAt();
 						//alertList[alertList.length-1].getCreateddate();
 				String dateString = getSharedPreferences();
-				
+
 				SimpleDateFormat sdf = new SimpleDateFormat("MMM dd,yyyy, HH:mm:ss");
 				Date oldDate = sdf.parse(dateString);
 				//double oldDate = Double.parseDouble(dateString);
 				if((newDate.getTime() - oldDate.getTime())>5000){
 					showHomeUnreadCount(1);
 				}
-				
+
 			}
 		} catch (Exception e) {
 			showHomeUnreadCount(1);
 			e.printStackTrace();
 		}
 	}
-	
+
 	*/
 /**
-	 * getSharedPreferences
-	 * 
-	 *//*
+ * getSharedPreferences
+ *
+ *//*
 
 	private String getSharedPreferences() {
 		SharedPreferences app_preferences = getSharedPreferences("BICSI_PREF", 0);
@@ -3575,8 +3577,8 @@ MizeUtil.NavigateToTabFragmentListener, PromptReturnListener, OnClickListener */
 	}
 	*/
 /**
-	 * hideSoftKeyboard hide the keyboard
-	 *//*
+ * hideSoftKeyboard hide the keyboard
+ *//*
 
 	public void hideSoftKeyboard(int id) {
 		try {
@@ -3589,11 +3591,11 @@ MizeUtil.NavigateToTabFragmentListener, PromptReturnListener, OnClickListener */
 			e.printStackTrace();
 		}
 	}
-	
+
 	*/
 /**
-	 * send to Google Analytics
-	 *//*
+ * send to Google Analytics
+ *//*
 
 	public void updateTracker(String label){
 		  // May return null if a EasyTracker has not yet been initialized with a

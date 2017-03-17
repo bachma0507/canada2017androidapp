@@ -226,11 +226,11 @@ ADDED from /Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/Andr
 	android:value
 		ADDED from /Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/AndroidManifest.xml:132:44-71
 meta-data#PW_PROJECT_ID
-ADDED from /Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/AndroidManifest.xml:133:9-81
+ADDED from /Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/AndroidManifest.xml:133:9-82
 	android:name
 		ADDED from /Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/AndroidManifest.xml:133:20-48
 	android:value
-		ADDED from /Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/AndroidManifest.xml:133:49-78
+		ADDED from /Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/AndroidManifest.xml:133:49-79
 activity#org.bicsi.canada2014.AndroidTwitterSample
 ADDED from /Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/AndroidManifest.xml:135:9-139:20
 	android:screenOrientation

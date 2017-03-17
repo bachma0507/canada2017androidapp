@@ -32,12 +32,12 @@
         "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/facebookSDK/build/intermediates/bundles/debug/res/drawable-mdpi-v4/com_facebook_picker_magnifier.png"
     },
     {
-        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/facebookSDK/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/com_facebook_button_blue_focused.9.png",
-        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/facebookSDK/build/intermediates/bundles/debug/res/drawable-mdpi-v4/com_facebook_button_blue_focused.9.png"
-    },
-    {
         "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/facebookSDK/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/com_facebook_tooltip_blue_topnub.png",
         "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/facebookSDK/build/intermediates/bundles/debug/res/drawable-mdpi-v4/com_facebook_tooltip_blue_topnub.png"
+    },
+    {
+        "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/facebookSDK/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/com_facebook_button_blue_focused.9.png",
+        "source": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/facebookSDK/build/intermediates/bundles/debug/res/drawable-mdpi-v4/com_facebook_button_blue_focused.9.png"
     },
     {
         "merged": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/facebookSDK/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/com_facebook_tooltip_black_background.9.png",

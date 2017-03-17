@@ -147,7 +147,7 @@ public class HomeFragment extends Fragment {
 				Intent i = new Intent(Intent.ACTION_SEND);
 				i.setType("message/rfc822");
 				i.putExtra(Intent.EXTRA_EMAIL  , new String[]{"support@bicsi.org"});
-				i.putExtra(Intent.EXTRA_SUBJECT, "Comments for Winter 2017 Conference");
+				i.putExtra(Intent.EXTRA_SUBJECT, "Comments for Canada 2017 Conference");
 				i.putExtra(Intent.EXTRA_TEXT   , "{Device - Android} Your Comments:");
 				try {
 				    startActivity(Intent.createChooser(i, "Send mail..."));
