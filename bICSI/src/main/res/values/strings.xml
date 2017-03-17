@@ -25,8 +25,8 @@
 	<string name="exhibitorsearch">Exhibitor Search</string>
 	<string name="exhibitormap">Exhibitor Map</string>
 	<string name="cecinfo">CEC Information</string>
-	<string name="committee">New Product</string>
-	<string name="meetings">Pavilion</string>
+	<string name="committee">Committee</string>
+	<string name="meetings">Meetings</string>
     <string name="newproduct">New Product</string>
     <string name="pavilion">Pavilion</string>
 	<string name="training">Training and</string>

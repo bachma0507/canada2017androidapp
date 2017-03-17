@@ -157,7 +157,7 @@
     <string name="comment_hint">Required</string>
     <string name="comment_label">Add a Comment</string>
     <string name="comments">Email Your Comments</string>
-    <string name="committee">New Product</string>
+    <string name="committee">Committee</string>
     <string name="common_google_play_services_api_unavailable_text"><ns1:g id="app_name">%1$s</ns1:g> requires one or more Google Play services that are not currently available. Please contact the developer for assistance.</string>
     <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Enable Google Play services</string>
     <string msgid="227660514972886228" name="common_google_play_services_enable_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t work unless you enable Google Play services.</string>
@@ -206,7 +206,7 @@
     <string name="home">Home</string>
     <string name="hotelinformation">Hotel Information</string>
     <string name="logintext">If you have a user account for the Photo Gallery, please sign in below. If not, please sign up.</string>
-    <string name="meetings">Pavilion</string>
+    <string name="meetings">Meetings</string>
     <string name="memberId">Member ID</string>
     <string name="myBICSI">My BICSI</string>
     <string name="myPlanner">My Schedule</string>
