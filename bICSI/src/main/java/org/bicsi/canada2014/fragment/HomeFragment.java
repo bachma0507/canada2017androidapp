@@ -113,7 +113,7 @@ public class HomeFragment extends Fragment {
 		ivExfloor.setOnClickListener(new View.OnClickListener() {
 			public void onClick(View v) {
 
-				openInternalWebview("http://speedyreference.com/floormap/boothinfowin17.htm");
+				openInternalWebview("http://speedyreference.com/floormap/boothinfocan17.htm");
 				//openInternalWebview("http://speedyreference.com/bicsiappcms/floormaps.html");
 			}
 		});
@@ -130,8 +130,8 @@ public class HomeFragment extends Fragment {
 		});
 		ivCommeet.setOnClickListener(new View.OnClickListener() {
 			public void onClick(View v) {
-				//mCallback.navigateToTabFragment(newFragment4, null);
-				openInternalWebview("https://www.speedyreference.com/nppredirect.html");
+				mCallback.navigateToTabFragment(newFragment4, null);
+				//openInternalWebview("https://www.speedyreference.com/nppredirect.html");
 			}
 		});
 		ivTrainexam.setOnClickListener(new View.OnClickListener() {
