@@ -9,481 +9,16 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="75b7b07e-3a9e-4f82-a668-418511e06eed" name="Default" comment="Updated PW ID in androidmanifest.xml. Removed Parse references in BICSIApplication file.">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/classes/androidTest/debug/org/bicsi/canada2017/test/BuildConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/incremental-safeguard/androidTest/debug/tag.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/bolts.jar_dbpmxohdqyi9f0yhg37kiv21q/bolts/AggregateException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/bolts.jar_dbpmxohdqyi9f0yhg37kiv21q/bolts/AppLink$Target.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/bolts.jar_dbpmxohdqyi9f0yhg37kiv21q/bolts/AppLink.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/bolts.jar_dbpmxohdqyi9f0yhg37kiv21q/bolts/AppLinkNavigation$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/bolts.jar_dbpmxohdqyi9f0yhg37kiv21q/bolts/AppLinkNavigation$NavigationResult.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/bolts.jar_dbpmxohdqyi9f0yhg37kiv21q/bolts/AppLinkNavigation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/bolts.jar_dbpmxohdqyi9f0yhg37kiv21q/bolts/AppLinkResolver.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/bolts.jar_dbpmxohdqyi9f0yhg37kiv21q/bolts/AppLinks.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/bolts.jar_dbpmxohdqyi9f0yhg37kiv21q/bolts/Bolts.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/bolts.jar_dbpmxohdqyi9f0yhg37kiv21q/bolts/Capture.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/bolts.jar_dbpmxohdqyi9f0yhg37kiv21q/bolts/Continuation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/bolts.jar_dbpmxohdqyi9f0yhg37kiv21q/bolts/Executors.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/bolts.jar_dbpmxohdqyi9f0yhg37kiv21q/bolts/Task$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/bolts.jar_dbpmxohdqyi9f0yhg37kiv21q/bolts/Task$10$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/bolts.jar_dbpmxohdqyi9f0yhg37kiv21q/bolts/Task$10.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/bolts.jar_dbpmxohdqyi9f0yhg37kiv21q/bolts/Task$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/bolts.jar_dbpmxohdqyi9f0yhg37kiv21q/bolts/Task$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/bolts.jar_dbpmxohdqyi9f0yhg37kiv21q/bolts/Task$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/bolts.jar_dbpmxohdqyi9f0yhg37kiv21q/bolts/Task$5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/bolts.jar_dbpmxohdqyi9f0yhg37kiv21q/bolts/Task$6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/bolts.jar_dbpmxohdqyi9f0yhg37kiv21q/bolts/Task$7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/bolts.jar_dbpmxohdqyi9f0yhg37kiv21q/bolts/Task$8.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/bolts.jar_dbpmxohdqyi9f0yhg37kiv21q/bolts/Task$9.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/bolts.jar_dbpmxohdqyi9f0yhg37kiv21q/bolts/Task$ImmediateExecutor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/bolts.jar_dbpmxohdqyi9f0yhg37kiv21q/bolts/Task$TaskCompletionSource.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/bolts.jar_dbpmxohdqyi9f0yhg37kiv21q/bolts/Task$UIThreadExecutor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/bolts.jar_dbpmxohdqyi9f0yhg37kiv21q/bolts/Task.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/bolts.jar_dbpmxohdqyi9f0yhg37kiv21q/bolts/WebViewAppLinkResolver$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/bolts.jar_dbpmxohdqyi9f0yhg37kiv21q/bolts/WebViewAppLinkResolver$2$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/bolts.jar_dbpmxohdqyi9f0yhg37kiv21q/bolts/WebViewAppLinkResolver$2$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/bolts.jar_dbpmxohdqyi9f0yhg37kiv21q/bolts/WebViewAppLinkResolver$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/bolts.jar_dbpmxohdqyi9f0yhg37kiv21q/bolts/WebViewAppLinkResolver$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/bolts.jar_dbpmxohdqyi9f0yhg37kiv21q/bolts/WebViewAppLinkResolver.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/bolts.jar_dbpmxohdqyi9f0yhg37kiv21q/com/bolts/BuildConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/AccessToken$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/AccessToken$SerializationProxyV1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/AccessToken.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/AccessTokenSource.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/AppEventsConstants.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/AppEventsLogger$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/AppEventsLogger$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/AppEventsLogger$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/AppEventsLogger$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/AppEventsLogger$5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/AppEventsLogger$AccessTokenAppIdPair$SerializationProxyV1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/AppEventsLogger$AccessTokenAppIdPair.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/AppEventsLogger$AppEvent$SerializationProxyV1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/AppEventsLogger$AppEvent.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/AppEventsLogger$EventSuppression.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/AppEventsLogger$FlushBehavior.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/AppEventsLogger$FlushReason.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/AppEventsLogger$FlushResult.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/AppEventsLogger$FlushStatistics.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/AppEventsLogger$PersistedEvents.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/AppEventsLogger$SessionEventsState.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/AppEventsLogger$SuppressionTimeoutBehavior.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/AppEventsLogger.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/AppLinkData$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/AppLinkData$CompletionHandler.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/AppLinkData.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/AuthorizationClient$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/AuthorizationClient$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/AuthorizationClient$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/AuthorizationClient$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/AuthorizationClient$5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/AuthorizationClient$AuthDialogBuilder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/AuthorizationClient$AuthHandler.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/AuthorizationClient$AuthorizationRequest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/AuthorizationClient$BackgroundProcessingListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/AuthorizationClient$GetTokenAuthHandler$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/AuthorizationClient$GetTokenAuthHandler.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/AuthorizationClient$KatanaAuthHandler.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/AuthorizationClient$KatanaProxyAuthHandler.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/AuthorizationClient$OnCompletedListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/AuthorizationClient$Result$Code.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/AuthorizationClient$Result.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/AuthorizationClient$StartActivityDelegate.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/AuthorizationClient$WebViewAuthHandler$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/AuthorizationClient$WebViewAuthHandler.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/AuthorizationClient.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/FacebookAppLinkResolver$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/FacebookAppLinkResolver$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/FacebookAppLinkResolver.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/FacebookAuthorizationException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/FacebookBroadcastReceiver.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/FacebookDialogException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/FacebookException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/FacebookGraphObjectException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/FacebookOperationCanceledException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/FacebookRequestError$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/FacebookRequestError$Category.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/FacebookRequestError$Range.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/FacebookRequestError.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/FacebookSdkVersion.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/FacebookServiceException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/GetTokenClient.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/HttpMethod.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/InsightsLogger.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/LegacyHelper.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/LoggingBehavior.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/LoginActivity$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/LoginActivity$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/LoginActivity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/NativeAppCallAttachmentStore$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/NativeAppCallAttachmentStore$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/NativeAppCallAttachmentStore$ProcessAttachment.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/NativeAppCallAttachmentStore.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/NativeAppCallContentProvider$AttachmentDataSource.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/NativeAppCallContentProvider.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/NonCachingTokenCachingStrategy.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/ProgressNoopOutputStream.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/ProgressOutputStream$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/ProgressOutputStream.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/Request$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/Request$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/Request$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/Request$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/Request$5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/Request$Attachment.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/Request$Callback.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/Request$GraphPlaceListCallback.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/Request$GraphUserCallback.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/Request$GraphUserListCallback.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/Request$KeyValueSerializer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/Request$OnProgressCallback.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/Request$ParcelFileDescriptorWithMimeType$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/Request$ParcelFileDescriptorWithMimeType.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/Request$Serializer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/Request.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/RequestAsyncTask.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/RequestBatch$Callback.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/RequestBatch$OnProgressCallback.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/RequestBatch.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/RequestOutputStream.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/RequestProgress$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/RequestProgress.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/Response$PagedResults.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/Response$PagingDirection.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/Response$PagingInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/Response.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/Session$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/Session$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/Session$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/Session$4$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/Session$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/Session$5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/Session$AuthorizationRequest$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/Session$AuthorizationRequest$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/Session$AuthorizationRequest$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/Session$AuthorizationRequest$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/Session$AuthorizationRequest$AuthRequestSerializationProxyV1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/Session$AuthorizationRequest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/Session$AutoPublishAsyncTask.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/Session$Builder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/Session$NewPermissionsRequest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/Session$OpenRequest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/Session$SerializationProxyV1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/Session$SerializationProxyV2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/Session$StartActivityDelegate.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/Session$StatusCallback.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/Session$TokenRefreshRequest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/Session$TokenRefreshRequestHandler.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/Session.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/SessionDefaultAudience.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/SessionLoginBehavior.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/SessionState$Category.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/SessionState.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/Settings$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/Settings$2$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/Settings$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/Settings.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/SharedPreferencesTokenCachingStrategy.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/TestSession$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/TestSession$FqlResponse.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/TestSession$FqlResult.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/TestSession$Mode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/TestSession$TestAccount.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/TestSession$TestTokenCachingStrategy.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/TestSession$UserAccount.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/TestSession.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/TokenCachingStrategy.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/UiLifecycleHelper$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/UiLifecycleHelper$ActiveSessionBroadcastReceiver.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/UiLifecycleHelper.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/android/AsyncFacebookRunner$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/android/AsyncFacebookRunner$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/android/AsyncFacebookRunner$RequestListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/android/AsyncFacebookRunner.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/android/BuildConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/android/DialogError.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/android/Facebook$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/android/Facebook$DialogListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/android/Facebook$ServiceListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/android/Facebook$SetterTokenCachingStrategy.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/android/Facebook$TokenRefreshConnectionHandler.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/android/Facebook$TokenRefreshServiceConnection.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/android/Facebook.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/android/FacebookError.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/android/FbDialog$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/android/FbDialog.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/android/Util.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/internal/AnalyticsEvents.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/internal/AttributionIdentifiers.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/internal/CacheableRequestBatch.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/internal/FileLruCache$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/internal/FileLruCache$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/internal/FileLruCache$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/internal/FileLruCache$BufferFile$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/internal/FileLruCache$BufferFile$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/internal/FileLruCache$BufferFile.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/internal/FileLruCache$CloseCallbackOutputStream.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/internal/FileLruCache$CopyingInputStream.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/internal/FileLruCache$Limits.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/internal/FileLruCache$ModifiedFile.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/internal/FileLruCache$StreamCloseCallback.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/internal/FileLruCache$StreamHeader.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/internal/FileLruCache.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/internal/ImageDownloader$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/internal/ImageDownloader$CacheReadWorkItem.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/internal/ImageDownloader$DownloadImageWorkItem.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/internal/ImageDownloader$DownloaderContext.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/internal/ImageDownloader$RequestKey.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/internal/ImageDownloader.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/internal/ImageRequest$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/internal/ImageRequest$Builder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/internal/ImageRequest$Callback.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/internal/ImageRequest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/internal/ImageResponse.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/internal/ImageResponseCache$BufferedHttpInputStream.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/internal/ImageResponseCache.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/internal/Logger.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/internal/NativeProtocol$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/internal/NativeProtocol$KatanaAppInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/internal/NativeProtocol$MessengerAppInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/internal/NativeProtocol$NativeAppInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/internal/NativeProtocol$WakizashiAppInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/internal/NativeProtocol.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/internal/PlatformServiceClient$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/internal/PlatformServiceClient$CompletedListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/internal/PlatformServiceClient.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/internal/ServerProtocol.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/internal/SessionAuthorizationType.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/internal/SessionTracker$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/internal/SessionTracker$ActiveSessionBroadcastReceiver.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/internal/SessionTracker$CallbackWrapper.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/internal/SessionTracker.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/internal/UrlRedirectCache.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/internal/Utility$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/internal/Utility$FetchedAppSettings.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/internal/Utility.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/internal/Validate.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/internal/WorkQueue$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/internal/WorkQueue$WorkItem.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/internal/WorkQueue$WorkNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/internal/WorkQueue.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/model/CreateGraphObject.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/model/GraphLocation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/model/GraphMultiResult.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/model/GraphObject$Factory$GraphObjectListImpl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/model/GraphObject$Factory$GraphObjectProxy$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/model/GraphObject$Factory$GraphObjectProxy.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/model/GraphObject$Factory$ProxyBase.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/model/GraphObject$Factory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/model/GraphObject.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/model/GraphObjectList.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/model/GraphPlace.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/model/GraphUser.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/model/JsonUtil$JSONObjectEntry.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/model/JsonUtil.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/model/OpenGraphAction$Factory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/model/OpenGraphAction.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/model/OpenGraphObject$Factory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/model/OpenGraphObject.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/model/PropertyName.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/FacebookDialog$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/FacebookDialog$Builder$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/FacebookDialog$Builder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/FacebookDialog$Callback.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/FacebookDialog$DialogFeature.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/FacebookDialog$MessageDialogBuilder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/FacebookDialog$MessageDialogFeature.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/FacebookDialog$OnPresentCallback.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/FacebookDialog$OpenGraphActionDialogBuilder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/FacebookDialog$OpenGraphActionDialogFeature.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/FacebookDialog$OpenGraphDialogBuilderBase.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/FacebookDialog$OpenGraphMessageDialogBuilder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/FacebookDialog$OpenGraphMessageDialogFeature.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/FacebookDialog$PendingCall$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/FacebookDialog$PendingCall.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/FacebookDialog$PhotoDialogBuilderBase.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/FacebookDialog$PhotoMessageDialogBuilder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/FacebookDialog$PhotoShareDialogBuilder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/FacebookDialog$ShareDialogBuilder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/FacebookDialog$ShareDialogBuilderBase.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/FacebookDialog$ShareDialogFeature.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/FacebookDialog.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/FacebookFragment$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/FacebookFragment$DefaultSessionStatusCallback.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/FacebookFragment.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/FriendPickerFragment$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/FriendPickerFragment$ImmediateLoadingStrategy.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/FriendPickerFragment.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/GraphObjectAdapter$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/GraphObjectAdapter$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/GraphObjectAdapter$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/GraphObjectAdapter$DataNeededListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/GraphObjectAdapter$Filter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/GraphObjectAdapter$ItemPicture.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/GraphObjectAdapter$ItemPictureData.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/GraphObjectAdapter$OnErrorListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/GraphObjectAdapter$SectionAndItem$Type.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/GraphObjectAdapter$SectionAndItem.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/GraphObjectAdapter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/GraphObjectCursor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/GraphObjectPagingLoader$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/GraphObjectPagingLoader$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/GraphObjectPagingLoader$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/GraphObjectPagingLoader$OnErrorListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/GraphObjectPagingLoader$PagedResults.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/GraphObjectPagingLoader.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/LoginButton$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/LoginButton$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/LoginButton$LoginButtonCallback.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/LoginButton$LoginButtonProperties.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/LoginButton$LoginClickListener$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/LoginButton$LoginClickListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/LoginButton$OnErrorListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/LoginButton$ToolTipMode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/LoginButton$UserInfoChangedCallback.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/LoginButton.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/PickerFragment$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/PickerFragment$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/PickerFragment$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/PickerFragment$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/PickerFragment$5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/PickerFragment$6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/PickerFragment$GraphObjectFilter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/PickerFragment$LoadingStrategy$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/PickerFragment$LoadingStrategy$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/PickerFragment$LoadingStrategy$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/PickerFragment$LoadingStrategy.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/PickerFragment$MultiSelectionStrategy.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/PickerFragment$OnDataChangedListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/PickerFragment$OnDoneButtonClickedListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/PickerFragment$OnErrorListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/PickerFragment$OnSelectionChangedListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/PickerFragment$PickerFragmentAdapter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/PickerFragment$SelectionStrategy.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/PickerFragment$SingleSelectionStrategy.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/PickerFragment.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/PlacePickerFragment$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/PlacePickerFragment$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/PlacePickerFragment$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/PlacePickerFragment$AsNeededLoadingStrategy$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/PlacePickerFragment$AsNeededLoadingStrategy.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/PlacePickerFragment$SearchTextWatcher.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/PlacePickerFragment.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/ProfilePictureView$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/ProfilePictureView$OnErrorListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/ProfilePictureView.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/SimpleGraphObjectCursor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/ToolTipPopup$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/ToolTipPopup$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/ToolTipPopup$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/ToolTipPopup$PopupContentView.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/ToolTipPopup$Style.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/ToolTipPopup.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/UserSettingsFragment$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/UserSettingsFragment$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/UserSettingsFragment.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/WebDialog$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/WebDialog$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/WebDialog$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/WebDialog$Builder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/WebDialog$BuilderBase.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/WebDialog$DialogWebViewClient.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/WebDialog$FeedDialogBuilder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/WebDialog$OnCompleteListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/WebDialog$RequestsDialogBuilder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bICSI/build/tmp/expandedArchives/classes.jar_e4sznbvwqjky352b59v0ah83v/com/facebook/widget/WebDialog.class" afterPath="" />
+    <list default="true" id="75b7b07e-3a9e-4f82-a668-418511e06eed" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/cache.properties.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/fileSnapshots.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/outputFileStates.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/outputFileStates.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/taskArtifacts.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/tasks/_bICSI_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/tasks/_bICSI_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/tasks/_bICSI_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/.gradle/2.10/tasks/_bICSI_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/tasks/_bICSI_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/tasks/_bICSI_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/tasks/_bICSI_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/.gradle/2.10/tasks/_bICSI_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/tasks/_facebookSDK_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/.gradle/2.10/tasks/_facebookSDK_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/tasks/_facebookSDK_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/.gradle/2.10/tasks/_facebookSDK_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/tasks/_facebookSDK_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/.gradle/2.10/tasks/_facebookSDK_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/tasks/_facebookSDK_compileReleaseJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/.gradle/2.10/tasks/_facebookSDK_compileReleaseJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/com/facebook/android/R$id.class" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/com/facebook/android/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2014/FacebookPost/FacebookPostActivity.class" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2014/FacebookPost/FacebookPostActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2014/ListViewAdapter.class" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2014/ListViewAdapter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2014/activities/MainActivity$1.class" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2014/activities/MainActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2014/activities/MainActivity$5.class" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2014/activities/MainActivity$5.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2014/activities/MainActivity$GetJSONData.class" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2014/activities/MainActivity$GetJSONData.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2014/activities/MainActivity.class" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2014/activities/MainActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2014/activities/NewMealActivity.class" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2014/activities/NewMealActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2014/activities/NotesActivity.class" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2014/activities/NotesActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2014/activities/WebViewActivity.class" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2014/activities/WebViewActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2014/activities/Welcome.class" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2014/activities/Welcome.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2014/adapter/AlertAdapter.class" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2014/adapter/AlertAdapter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2014/adapter/AlertsAdapter.class" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2014/adapter/AlertsAdapter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2014/application/BICSIApplication.class" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2014/application/BICSIApplication.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2014/fragment/AboutUsFragment.class" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2014/fragment/AboutUsFragment.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2014/fragment/CameraFragment.class" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2014/fragment/CameraFragment.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2014/fragment/CommitteeFragment.class" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2014/fragment/CommitteeFragment.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2014/fragment/CommitteeSingleFragment.class" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2014/fragment/CommitteeSingleFragment.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2014/fragment/ConfSchedDetailFragment.class" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2014/fragment/ConfSchedDetailFragment.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2014/fragment/ConfSchedFragment.class" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2014/fragment/ConfSchedFragment.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2014/fragment/ConfSchedSingleFragment.class" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2014/fragment/ConfSchedSingleFragment.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2014/fragment/EhallSchedDetailFragment2.class" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2014/fragment/EhallSchedDetailFragment2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2014/fragment/EhallSchedFragment.class" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2014/fragment/EhallSchedFragment.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2014/fragment/EhallSchedFragment2.class" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2014/fragment/EhallSchedFragment2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2014/fragment/GalleryLoginFragment.class" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2014/fragment/GalleryLoginFragment.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2014/fragment/GallerySignupFragment.class" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2014/fragment/GallerySignupFragment.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2014/fragment/GalleryViewFragment$RemoteDataTask.class" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2014/fragment/GalleryViewFragment$RemoteDataTask.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2014/fragment/HomeFragment$12.class" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2014/fragment/HomeFragment$12.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2014/fragment/HomeFragment.class" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2014/fragment/HomeFragment.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2014/fragment/ImportScheduleFragment$GetJSONData.class" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2014/fragment/ImportScheduleFragment$GetJSONData.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2014/fragment/ImportScheduleFragment.class" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2014/fragment/ImportScheduleFragment.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2014/fragment/LoginSuccessFragment.class" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2014/fragment/LoginSuccessFragment.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2014/fragment/PlannerScheduleFragment.class" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2014/fragment/PlannerScheduleFragment.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2014/fragment/SessionNoteFragment.class" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2014/fragment/SessionNoteFragment.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2014/fragment/ShareFragment.class" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2014/fragment/ShareFragment.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2014/fragment/SocialMediaFragment.class" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2014/fragment/SocialMediaFragment.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2014/fragment/WebviewFragment.class" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2014/fragment/WebviewFragment.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2014/fragment/fragment_new_upload.class" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2014/fragment/fragment_new_upload.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2014/fragment/plannerSingleFragment.class" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2014/fragment/plannerSingleFragment.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2017/R$id.class" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2017/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2017/R$integer.class" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2017/R$integer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2017/R$layout.class" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2017/R$layout.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2017/R$menu.class" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2017/R$menu.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2017/R$raw.class" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2017/R$raw.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2017/R$string.class" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2017/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2017/R$style.class" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2017/R$style.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2017/R$styleable.class" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2017/R$styleable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2017/R.class" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2017/R.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/exploded-aar/BICSI/facebookSDK/unspecified/jars/classes.jar" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/exploded-aar/BICSI/facebookSDK/unspecified/jars/classes.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/exploded-aar/BICSI/facebookSDK/unspecified/jars/libs/bolts.jar" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/exploded-aar/BICSI/facebookSDK/unspecified/jars/libs/bolts.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/res/resources-debug-androidTest.ap_" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/res/resources-debug-androidTest.ap_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/res/resources-debug.ap_" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/res/resources-debug.ap_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebookSDK/build/intermediates/bundles/debug/classes.jar" afterPath="$PROJECT_DIR$/facebookSDK/build/intermediates/bundles/debug/classes.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebookSDK/build/intermediates/bundles/debug/libs/bolts.jar" afterPath="$PROJECT_DIR$/facebookSDK/build/intermediates/bundles/debug/libs/bolts.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebookSDK/build/intermediates/bundles/release/classes.jar" afterPath="$PROJECT_DIR$/facebookSDK/build/intermediates/bundles/release/classes.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebookSDK/build/intermediates/bundles/release/libs/bolts.jar" afterPath="$PROJECT_DIR$/facebookSDK/build/intermediates/bundles/release/libs/bolts.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebookSDK/build/intermediates/res/resources-debug-androidTest.ap_" afterPath="$PROJECT_DIR$/facebookSDK/build/intermediates/res/resources-debug-androidTest.ap_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebookSDK/build/outputs/aar/facebookSDK-debug.aar" afterPath="$PROJECT_DIR$/facebookSDK/build/outputs/aar/facebookSDK-debug.aar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebookSDK/build/outputs/aar/facebookSDK-release.aar" afterPath="$PROJECT_DIR$/facebookSDK/build/outputs/aar/facebookSDK-release.aar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2014/adapter/SQLiteDBAllData.class" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/classes/debug/org/bicsi/canada2014/adapter/SQLiteDBAllData.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/bICSI.iml" afterPath="$PROJECT_DIR$/bICSI/bICSI.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/generated/source/r/debug/com/facebook/android/R.java" afterPath="$PROJECT_DIR$/bICSI/build/generated/source/r/debug/com/facebook/android/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/generated/source/r/debug/org/bicsi/canada2017/R.java" afterPath="$PROJECT_DIR$/bICSI/build/generated/source/r/debug/org/bicsi/canada2017/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/blame/res/debug/single/drawable-xhdpi-v4.json" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/blame/res/debug/single/drawable-xhdpi-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/blame/res/debug/single/drawable-xxhdpi-v4.json" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/blame/res/debug/single/drawable-xxhdpi-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/blame/res/debug/single/drawable.json" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/blame/res/debug/single/drawable.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/incremental/mergeDebugResources/merger.xml" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/incremental/mergeDebugResources/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/res/merged/debug/layout/activity_main.xml" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/res/merged/debug/layout/activity_main.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/res/merged/debug/values/values.xml" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/res/merged/debug/values/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/intermediates/symbols/debug/R.txt" afterPath="$PROJECT_DIR$/bICSI/build/intermediates/symbols/debug/R.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/build/outputs/logs/manifest-merger-debug-report.txt" afterPath="$PROJECT_DIR$/bICSI/build/outputs/logs/manifest-merger-debug-report.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/src/main/java/org/bicsi/canada2014/activities/MainActivity.java" afterPath="$PROJECT_DIR$/bICSI/src/main/java/org/bicsi/canada2014/activities/MainActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/src/main/java/org/bicsi/canada2014/fragment/HomeFragment.java" afterPath="$PROJECT_DIR$/bICSI/src/main/java/org/bicsi/canada2014/fragment/HomeFragment.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/src/main/java/org/bicsi/canada2014/fragment/ImportScheduleFragment.java" afterPath="$PROJECT_DIR$/bICSI/src/main/java/org/bicsi/canada2014/fragment/ImportScheduleFragment.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/src/main/res/layout/activity_main.xml" afterPath="$PROJECT_DIR$/bICSI/src/main/res/layout/activity_main.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebookSDK/build/intermediates/blame/res/androidTest/debug/single/drawable-mdpi-v4.json" afterPath="$PROJECT_DIR$/facebookSDK/build/intermediates/blame/res/androidTest/debug/single/drawable-mdpi-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebookSDK/facebookSDK.iml" afterPath="$PROJECT_DIR$/facebookSDK/facebookSDK.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bICSI/src/main/java/org/bicsi/canada2014/adapter/SQLiteDBAllData.java" afterPath="$PROJECT_DIR$/bICSI/src/main/java/org/bicsi/canada2014/adapter/SQLiteDBAllData.java" />
     </list>
     <ignored path="BICSI.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -539,10 +74,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bICSI/src/main/java/org/bicsi/canada2014/activities/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.7472325">
+            <state vertical-scroll-proportion="15.0">
               <caret line="1377" column="18" selection-start-line="1377" selection-start-column="18" selection-end-line="1377" selection-end-column="18" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -562,6 +97,16 @@
                 <element signature="e#52971#53552#0" expanded="true" />
                 <element signature="e#53551#53552#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SQLiteDBAllData.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bICSI/src/main/java/org/bicsi/canada2014/adapter/SQLiteDBAllData.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.3321033">
+              <caret line="276" column="333" selection-start-line="276" selection-start-column="331" selection-end-line="276" selection-end-column="333" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -3041,6 +2586,7 @@
         <option value="$PROJECT_DIR$/bICSI/src/main/java/org/bicsi/canada2014/fragment/HomeFragment.java" />
         <option value="$PROJECT_DIR$/bICSI/src/main/res/layout/activity_main.xml" />
         <option value="$PROJECT_DIR$/bICSI/src/main/java/org/bicsi/canada2014/activities/MainActivity.java" />
+        <option value="$PROJECT_DIR$/bICSI/src/main/java/org/bicsi/canada2014/adapter/SQLiteDBAllData.java" />
       </list>
     </option>
   </component>
@@ -3540,12 +3086,18 @@
       <option name="project" value="LOCAL" />
       <updated>1489684889970</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Removed access to Photo Gallery via layout xml and mainactivity">
+      <created>1489754391351</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1489754391351</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1007" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -3554,7 +3106,7 @@
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32996634" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32996634" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Monitor" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32996634" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -3567,7 +3119,7 @@
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960597" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973376" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16666667" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32996634" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -3590,7 +3142,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Updated PW ID in androidmanifest.xml. Removed Parse references in BICSIApplication file." />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated PW ID in androidmanifest.xml. Removed Parse references in BICSIApplication file." />
+    <MESSAGE value="Removed access to Photo Gallery via layout xml and mainactivity" />
+    <option name="LAST_COMMIT_MESSAGE" value="Removed access to Photo Gallery via layout xml and mainactivity" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -3713,14 +3266,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bICSI/src/main/java/org/bicsi/canada2014/adapter/SQLiteDBAllData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.47416973">
-          <caret line="414" column="46" selection-start-line="414" selection-start-column="41" selection-end-line="414" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bICSI/src/main/java/org/bicsi/canada2014/fragment/ConfSchedDetailFragment.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-21.11111">
@@ -3750,7 +3295,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/bICSI/src/main/java/org/bicsi/canada2014/activities/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.7472325">
+        <state vertical-scroll-proportion="15.0">
           <caret line="1377" column="18" selection-start-line="1377" selection-start-column="18" selection-end-line="1377" selection-end-column="18" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -3770,6 +3315,14 @@
             <element signature="e#52971#53552#0" expanded="true" />
             <element signature="e#53551#53552#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bICSI/src/main/java/org/bicsi/canada2014/adapter/SQLiteDBAllData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3321033">
+          <caret line="276" column="333" selection-start-line="276" selection-start-column="331" selection-end-line="276" selection-end-column="333" />
+          <folding />
         </state>
       </provider>
     </entry>
