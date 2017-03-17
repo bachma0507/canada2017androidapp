@@ -90,7 +90,7 @@ public class HomeFragment extends Fragment {
 		ivCec.setOnClickListener(new View.OnClickListener() {
 			public void onClick(View v) {
 
-				openInternalWebview("http://www.bicsi.org/m/content.aspx?id=8437");
+				openInternalWebview("http://www.bicsi.org/m/content.aspx?id=8552");
 			}
 		});
 		ivExhall.setOnClickListener(new View.OnClickListener() {
@@ -137,7 +137,7 @@ public class HomeFragment extends Fragment {
 		ivTrainexam.setOnClickListener(new View.OnClickListener() {
 			public void onClick(View v) {
 
-				openInternalWebview("http://www.bicsi.org/m/content.aspx?id=8450");
+				openInternalWebview("http://www.bicsi.org/m/content.aspx?id=8573");
 				
 			}
 		});
