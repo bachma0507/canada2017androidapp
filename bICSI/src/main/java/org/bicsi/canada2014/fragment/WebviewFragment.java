@@ -55,7 +55,9 @@ public class WebviewFragment extends Fragment{
 	    webView.setScrollBarStyle(WebView.SCROLLBARS_OUTSIDE_OVERLAY);
 	    webView.setScrollbarFadingEnabled(true);
 	    webView.getSettings().setLoadsImagesAutomatically(true);
-	    webView.getSettings().setCacheMode(WebSettings.LOAD_CACHE_ELSE_NETWORK);
+	    //webView.getSettings().setCacheMode(WebSettings.LOAD_CACHE_ELSE_NETWORK);
+		webView.getSettings().setCacheMode(WebSettings.LOAD_DEFAULT);
+		//webView.reload();
 	    webView.getSettings().setRenderPriority(RenderPriority.HIGH);
 	   	webView.setOnKeyListener(new OnKeyListener()
 	    {
