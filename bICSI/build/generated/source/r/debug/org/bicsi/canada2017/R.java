@@ -436,8 +436,8 @@ containing a value of this type.
         public static final int hotel_information=0x7f02006e;
         public static final int ic_action_forward=0x7f02006f;
         public static final int ic_action_photo=0x7f020070;
-        public static final int ic_launcher=0x7f020071;
-        public static final int ic_launcher_web=0x7f020072;
+        public static final int ic_launcher_web=0x7f020071;
+        public static final int ic_launcher_web_old=0x7f020072;
         public static final int icon_gallery=0x7f020073;
         public static final int icon_gallery_sel=0x7f020074;
         public static final int icons_alerts=0x7f020075;
