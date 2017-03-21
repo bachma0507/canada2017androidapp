@@ -28,17 +28,16 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center"
-                android:layout_marginTop="10dp"
                 android:src="@drawable/conference_schedule" />
 
-            <TextView
+            <!--<TextView
                 android:id="@+id/txtConference"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center"
                 android:text="@string/conference"
                 android:textColor="#AAffffff"
-                android:textSize="16sp" />
+                android:textSize="16sp" />-->
 
             <TextView
                 android:id="@+id/txtConfschedule"
@@ -125,7 +124,6 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center"
-                android:layout_marginTop="15dp"
                 android:src="@drawable/exhibit_hall_schedule" />
 
             <TextView
@@ -137,14 +135,14 @@
                 android:textColor="#AAffffff"
                 android:textSize="16sp" />
 
-            <TextView
+            <!--<TextView
                 android:id="@+id/txtSchdule"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center"
                 android:text="@string/schedule"
                 android:textColor="#AAffffff"
-                android:textSize="16sp" />
+                android:textSize="16sp" />-->
         </LinearLayout>
 
         <LinearLayout
@@ -248,7 +246,6 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center"
-                android:layout_marginTop="15dp"
                 android:src="@drawable/committee_meetings" />
 
             <TextView
@@ -260,14 +257,14 @@
                 android:textColor="#AAffffff"
                 android:textSize="16sp" />
 
-            <TextView
+            <!--<TextView
                 android:id="@+id/txtMeetings"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center"
                 android:text="@string/meetings"
                 android:textColor="#AAffffff"
-                android:textSize="16sp" />
+                android:textSize="16sp" />-->
         </LinearLayout>
 
         <LinearLayout
@@ -284,7 +281,6 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center"
-                android:layout_marginTop="15dp"
                 android:src="@drawable/training_and_exams" />
 
             <TextView
@@ -296,14 +292,14 @@
                 android:textColor="#AAffffff"
                 android:textSize="16sp" />
 
-            <TextView
+            <!--<TextView
                 android:id="@+id/txtExams"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center"
                 android:text="@string/exams"
                 android:textColor="#AAffffff"
-                android:textSize="16sp" />
+                android:textSize="16sp" />-->
         </LinearLayout>
     </LinearLayout>
 

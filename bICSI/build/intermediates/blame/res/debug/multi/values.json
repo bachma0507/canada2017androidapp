@@ -1795,8 +1795,8 @@
                     "startLine": 158,
                     "startColumn": 4,
                     "startOffset": 11806,
-                    "endColumn": 56,
-                    "endOffset": 11858
+                    "endColumn": 45,
+                    "endOffset": 11847
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/values/strings.xml"
@@ -1806,9 +1806,9 @@
                 "to": {
                     "startLine": 159,
                     "startColumn": 4,
-                    "startOffset": 11863,
-                    "endColumn": 47,
-                    "endOffset": 11906
+                    "startOffset": 11852,
+                    "endColumn": 48,
+                    "endOffset": 11896
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/values/strings.xml",
@@ -1816,8 +1816,8 @@
                         "startLine": 27,
                         "startColumn": 1,
                         "startOffset": 1340,
-                        "endColumn": 44,
-                        "endOffset": 1383
+                        "endColumn": 45,
+                        "endOffset": 1384
                     }
                 }
             },
@@ -1825,9 +1825,9 @@
                 "to": {
                     "startLine": 160,
                     "startColumn": 4,
-                    "startOffset": 11911,
+                    "startOffset": 11901,
                     "endColumn": 231,
-                    "endOffset": 12138
+                    "endOffset": 12128
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml"
@@ -1837,9 +1837,9 @@
                 "to": {
                     "startLine": 161,
                     "startColumn": 4,
-                    "startOffset": 12143,
+                    "startOffset": 12133,
                     "endColumn": 125,
-                    "endOffset": 12264
+                    "endOffset": 12254
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml"
@@ -1849,9 +1849,9 @@
                 "to": {
                     "startLine": 162,
                     "startColumn": 4,
-                    "startOffset": 12269,
+                    "startOffset": 12259,
                     "endColumn": 180,
-                    "endOffset": 12445
+                    "endOffset": 12435
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml"
@@ -1861,9 +1861,9 @@
                 "to": {
                     "startLine": 163,
                     "startColumn": 4,
-                    "startOffset": 12450,
+                    "startOffset": 12440,
                     "endColumn": 124,
-                    "endOffset": 12570
+                    "endOffset": 12560
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml"
@@ -1873,9 +1873,9 @@
                 "to": {
                     "startLine": 164,
                     "startColumn": 4,
-                    "startOffset": 12575,
+                    "startOffset": 12565,
                     "endColumn": 123,
-                    "endOffset": 12694
+                    "endOffset": 12684
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml"
@@ -1885,9 +1885,9 @@
                 "to": {
                     "startLine": 165,
                     "startColumn": 4,
-                    "startOffset": 12699,
+                    "startOffset": 12689,
                     "endColumn": 212,
-                    "endOffset": 12907
+                    "endOffset": 12897
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml"
@@ -1897,9 +1897,9 @@
                 "to": {
                     "startLine": 166,
                     "startColumn": 4,
-                    "startOffset": 12912,
+                    "startOffset": 12902,
                     "endColumn": 214,
-                    "endOffset": 13122
+                    "endOffset": 13112
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml"
@@ -1909,9 +1909,9 @@
                 "to": {
                     "startLine": 167,
                     "startColumn": 4,
-                    "startOffset": 13127,
+                    "startOffset": 13117,
                     "endColumn": 122,
-                    "endOffset": 13245
+                    "endOffset": 13235
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml"
@@ -1921,9 +1921,9 @@
                 "to": {
                     "startLine": 168,
                     "startColumn": 4,
-                    "startOffset": 13250,
+                    "startOffset": 13240,
                     "endColumn": 164,
-                    "endOffset": 13410
+                    "endOffset": 13400
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml"
@@ -1933,9 +1933,9 @@
                 "to": {
                     "startLine": 169,
                     "startColumn": 4,
-                    "startOffset": 13415,
+                    "startOffset": 13405,
                     "endColumn": 93,
-                    "endOffset": 13504
+                    "endOffset": 13494
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml"
@@ -1945,9 +1945,9 @@
                 "to": {
                     "startLine": 170,
                     "startColumn": 4,
-                    "startOffset": 13509,
+                    "startOffset": 13499,
                     "endColumn": 140,
-                    "endOffset": 13645
+                    "endOffset": 13635
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml"
@@ -1957,9 +1957,9 @@
                 "to": {
                     "startLine": 171,
                     "startColumn": 4,
-                    "startOffset": 13650,
+                    "startOffset": 13640,
                     "endColumn": 89,
-                    "endOffset": 13735
+                    "endOffset": 13725
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml"
@@ -1969,9 +1969,9 @@
                 "to": {
                     "startLine": 172,
                     "startColumn": 4,
-                    "startOffset": 13740,
+                    "startOffset": 13730,
                     "endColumn": 102,
-                    "endOffset": 13838
+                    "endOffset": 13828
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml"
@@ -1981,9 +1981,9 @@
                 "to": {
                     "startLine": 173,
                     "startColumn": 4,
-                    "startOffset": 13843,
+                    "startOffset": 13833,
                     "endColumn": 142,
-                    "endOffset": 13981
+                    "endOffset": 13971
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml"
@@ -1993,9 +1993,9 @@
                 "to": {
                     "startLine": 174,
                     "startColumn": 4,
-                    "startOffset": 13986,
+                    "startOffset": 13976,
                     "endColumn": 99,
-                    "endOffset": 14081
+                    "endOffset": 14071
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml"
@@ -2005,9 +2005,9 @@
                 "to": {
                     "startLine": 175,
                     "startColumn": 4,
-                    "startOffset": 14086,
+                    "startOffset": 14076,
                     "endColumn": 150,
-                    "endOffset": 14232
+                    "endOffset": 14222
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml"
@@ -2017,9 +2017,9 @@
                 "to": {
                     "startLine": 176,
                     "startColumn": 4,
-                    "startOffset": 14237,
+                    "startOffset": 14227,
                     "endColumn": 91,
-                    "endOffset": 14324
+                    "endOffset": 14314
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml"
@@ -2029,9 +2029,9 @@
                 "to": {
                     "startLine": 177,
                     "startColumn": 4,
-                    "startOffset": 14329,
+                    "startOffset": 14319,
                     "endColumn": 218,
-                    "endOffset": 14543
+                    "endOffset": 14533
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/res/values/common_strings.xml"
@@ -2041,9 +2041,9 @@
                 "to": {
                     "startLine": 178,
                     "startColumn": 4,
-                    "startOffset": 14548,
+                    "startOffset": 14538,
                     "endColumn": 218,
-                    "endOffset": 14762
+                    "endOffset": 14752
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml"
@@ -2053,9 +2053,9 @@
                 "to": {
                     "startLine": 179,
                     "startColumn": 4,
-                    "startOffset": 14767,
+                    "startOffset": 14757,
                     "endColumn": 94,
-                    "endOffset": 14857
+                    "endOffset": 14847
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml"
@@ -2065,9 +2065,9 @@
                 "to": {
                     "startLine": 180,
                     "startColumn": 4,
-                    "startOffset": 14862,
+                    "startOffset": 14852,
                     "endColumn": 104,
-                    "endOffset": 14962
+                    "endOffset": 14952
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml"
@@ -2077,9 +2077,9 @@
                 "to": {
                     "startLine": 181,
                     "startColumn": 4,
-                    "startOffset": 14967,
+                    "startOffset": 14957,
                     "endColumn": 180,
-                    "endOffset": 15143
+                    "endOffset": 15133
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml"
@@ -2089,9 +2089,9 @@
                 "to": {
                     "startLine": 182,
                     "startColumn": 4,
-                    "startOffset": 15148,
+                    "startOffset": 15138,
                     "endColumn": 124,
-                    "endOffset": 15268
+                    "endOffset": 15258
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml"
@@ -2101,9 +2101,9 @@
                 "to": {
                     "startLine": 183,
                     "startColumn": 4,
-                    "startOffset": 15273,
+                    "startOffset": 15263,
                     "endColumn": 174,
-                    "endOffset": 15443
+                    "endOffset": 15433
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml"
@@ -2113,9 +2113,9 @@
                 "to": {
                     "startLine": 184,
                     "startColumn": 4,
-                    "startOffset": 15448,
+                    "startOffset": 15438,
                     "endColumn": 104,
-                    "endOffset": 15548
+                    "endOffset": 15538
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml"
@@ -2125,9 +2125,9 @@
                 "to": {
                     "startLine": 185,
                     "startColumn": 4,
-                    "startOffset": 15553,
+                    "startOffset": 15543,
                     "endColumn": 147,
-                    "endOffset": 15696
+                    "endOffset": 15686
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml"
@@ -2137,9 +2137,9 @@
                 "to": {
                     "startLine": 186,
                     "startColumn": 4,
-                    "startOffset": 15701,
+                    "startOffset": 15691,
                     "endColumn": 62,
-                    "endOffset": 15759
+                    "endOffset": 15749
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml"
@@ -2149,9 +2149,9 @@
                 "to": {
                     "startLine": 187,
                     "startColumn": 4,
-                    "startOffset": 15764,
+                    "startOffset": 15754,
                     "endColumn": 61,
-                    "endOffset": 15821
+                    "endOffset": 15811
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml"
@@ -2161,9 +2161,9 @@
                 "to": {
                     "startLine": 188,
                     "startColumn": 4,
-                    "startOffset": 15826,
+                    "startOffset": 15816,
                     "endColumn": 78,
-                    "endOffset": 15900
+                    "endOffset": 15890
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values/base_strings.xml"
@@ -2173,9 +2173,9 @@
                 "to": {
                     "startLine": 189,
                     "startColumn": 4,
-                    "startOffset": 15905,
+                    "startOffset": 15895,
                     "endColumn": 49,
-                    "endOffset": 15950
+                    "endOffset": 15940
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/values/strings.xml"
@@ -2185,9 +2185,9 @@
                 "to": {
                     "startLine": 190,
                     "startColumn": 4,
-                    "startOffset": 15955,
+                    "startOffset": 15945,
                     "endColumn": 48,
-                    "endOffset": 15999
+                    "endOffset": 15989
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/values/strings.xml"
@@ -2197,9 +2197,9 @@
                 "to": {
                     "startLine": 191,
                     "startColumn": 4,
-                    "startOffset": 16004,
+                    "startOffset": 15994,
                     "endColumn": 53,
-                    "endOffset": 16053
+                    "endOffset": 16043
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/values/strings.xml"
@@ -2209,9 +2209,9 @@
                 "to": {
                     "startLine": 192,
                     "startColumn": 4,
-                    "startOffset": 16058,
+                    "startOffset": 16048,
                     "endColumn": 39,
-                    "endOffset": 16093
+                    "endOffset": 16083
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/values/strings.xml"
@@ -2221,9 +2221,9 @@
                 "to": {
                     "startLine": 193,
                     "startColumn": 4,
-                    "startOffset": 16098,
+                    "startOffset": 16088,
                     "endColumn": 39,
-                    "endOffset": 16133
+                    "endOffset": 16123
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/values/strings.xml"
@@ -2233,9 +2233,9 @@
                 "to": {
                     "startLine": 194,
                     "startColumn": 4,
-                    "startOffset": 16138,
+                    "startOffset": 16128,
                     "endColumn": 53,
-                    "endOffset": 16187
+                    "endOffset": 16177
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/values/strings.xml"
@@ -2245,9 +2245,9 @@
                 "to": {
                     "startLine": 195,
                     "startColumn": 4,
-                    "startOffset": 16192,
+                    "startOffset": 16182,
                     "endColumn": 52,
-                    "endOffset": 16240
+                    "endOffset": 16230
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/values/strings.xml"
@@ -2257,9 +2257,9 @@
                 "to": {
                     "startLine": 196,
                     "startColumn": 4,
-                    "startOffset": 16245,
+                    "startOffset": 16235,
                     "endColumn": 54,
-                    "endOffset": 16295
+                    "endOffset": 16285
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/values/strings.xml"
@@ -2269,9 +2269,9 @@
                 "to": {
                     "startLine": 197,
                     "startColumn": 4,
-                    "startOffset": 16300,
+                    "startOffset": 16290,
                     "endColumn": 60,
-                    "endOffset": 16356
+                    "endOffset": 16346
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/values/strings.xml"
@@ -2281,9 +2281,9 @@
                 "to": {
                     "startLine": 198,
                     "startColumn": 4,
-                    "startOffset": 16361,
+                    "startOffset": 16351,
                     "endColumn": 30,
-                    "endOffset": 16387
+                    "endOffset": 16377
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/values/strings.xml"
@@ -2293,9 +2293,9 @@
                 "to": {
                     "startLine": 199,
                     "startColumn": 4,
-                    "startOffset": 16392,
+                    "startOffset": 16382,
                     "endColumn": 53,
-                    "endOffset": 16441
+                    "endOffset": 16431
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/values/strings.xml"
@@ -2305,9 +2305,9 @@
                 "to": {
                     "startLine": 200,
                     "startColumn": 4,
-                    "startOffset": 16446,
+                    "startOffset": 16436,
                     "endColumn": 69,
-                    "endOffset": 16511
+                    "endOffset": 16501
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/values/strings.xml"
@@ -2317,9 +2317,9 @@
                 "to": {
                     "startLine": 201,
                     "startColumn": 4,
-                    "startOffset": 16516,
+                    "startOffset": 16506,
                     "endColumn": 158,
-                    "endOffset": 16670
+                    "endOffset": 16660
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/values/strings.xml"
@@ -2329,9 +2329,9 @@
                 "to": {
                     "startLine": 202,
                     "startColumn": 4,
-                    "startOffset": 16675,
+                    "startOffset": 16665,
                     "endColumn": 109,
-                    "endOffset": 16780
+                    "endOffset": 16770
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/values/strings.xml"
@@ -2341,9 +2341,9 @@
                 "to": {
                     "startLine": 203,
                     "startColumn": 4,
-                    "startOffset": 16785,
+                    "startOffset": 16775,
                     "endColumn": 55,
-                    "endOffset": 16836
+                    "endOffset": 16826
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/values/analytics.xml"
@@ -2353,9 +2353,9 @@
                 "to": {
                     "startLine": 204,
                     "startColumn": 4,
-                    "startOffset": 16841,
+                    "startOffset": 16831,
                     "endColumn": 50,
-                    "endOffset": 16887
+                    "endOffset": 16877
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/values/strings.xml"
@@ -2365,9 +2365,9 @@
                 "to": {
                     "startLine": 205,
                     "startColumn": 4,
-                    "startOffset": 16892,
+                    "startOffset": 16882,
                     "endColumn": 37,
-                    "endOffset": 16925
+                    "endOffset": 16915
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/values/strings.xml"
@@ -2377,9 +2377,9 @@
                 "to": {
                     "startLine": 206,
                     "startColumn": 4,
-                    "startOffset": 16930,
-                    "endColumn": 62,
-                    "endOffset": 16988
+                    "startOffset": 16920,
+                    "endColumn": 50,
+                    "endOffset": 16966
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/values/strings.xml"
@@ -2389,9 +2389,9 @@
                 "to": {
                     "startLine": 207,
                     "startColumn": 4,
-                    "startOffset": 16993,
+                    "startOffset": 16971,
                     "endColumn": 133,
-                    "endOffset": 17122
+                    "endOffset": 17100
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/values/strings.xml"
@@ -2401,28 +2401,21 @@
                 "to": {
                     "startLine": 208,
                     "startColumn": 4,
-                    "startOffset": 17127,
+                    "startOffset": 17105,
                     "endColumn": 45,
-                    "endOffset": 17168
+                    "endOffset": 17146
                 },
                 "from": {
-                    "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/values/strings.xml",
-                    "position": {
-                        "startLine": 28,
-                        "startColumn": 1,
-                        "startOffset": 1386,
-                        "endColumn": 42,
-                        "endOffset": 1427
-                    }
+                    "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/values/strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 209,
                     "startColumn": 4,
-                    "startOffset": 17173,
+                    "startOffset": 17151,
                     "endColumn": 46,
-                    "endOffset": 17215
+                    "endOffset": 17193
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/values/strings.xml"
@@ -2432,9 +2425,9 @@
                 "to": {
                     "startLine": 210,
                     "startColumn": 4,
-                    "startOffset": 17220,
+                    "startOffset": 17198,
                     "endColumn": 44,
-                    "endOffset": 17260
+                    "endOffset": 17238
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/values/strings.xml"
@@ -2444,9 +2437,9 @@
                 "to": {
                     "startLine": 211,
                     "startColumn": 4,
-                    "startOffset": 17265,
+                    "startOffset": 17243,
                     "endColumn": 49,
-                    "endOffset": 17310
+                    "endOffset": 17288
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/values/strings.xml"
@@ -2456,9 +2449,9 @@
                 "to": {
                     "startLine": 212,
                     "startColumn": 4,
-                    "startOffset": 17315,
+                    "startOffset": 17293,
                     "endColumn": 50,
-                    "endOffset": 17361
+                    "endOffset": 17339
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/values/strings.xml"
@@ -2468,9 +2461,9 @@
                 "to": {
                     "startLine": 213,
                     "startColumn": 4,
-                    "startOffset": 17366,
+                    "startOffset": 17344,
                     "endColumn": 89,
-                    "endOffset": 17451
+                    "endOffset": 17429
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/values/strings.xml"
@@ -2480,9 +2473,9 @@
                 "to": {
                     "startLine": 214,
                     "startColumn": 4,
-                    "startOffset": 17456,
+                    "startOffset": 17434,
                     "endColumn": 72,
-                    "endOffset": 17524
+                    "endOffset": 17502
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/values/strings.xml"
@@ -2492,9 +2485,9 @@
                 "to": {
                     "startLine": 215,
                     "startColumn": 4,
-                    "startOffset": 17529,
+                    "startOffset": 17507,
                     "endColumn": 68,
-                    "endOffset": 17593
+                    "endOffset": 17571
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/values/strings.xml"
@@ -2504,9 +2497,9 @@
                 "to": {
                     "startLine": 216,
                     "startColumn": 4,
-                    "startOffset": 17598,
+                    "startOffset": 17576,
                     "endColumn": 57,
-                    "endOffset": 17651
+                    "endOffset": 17629
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/values/strings.xml"
@@ -2516,9 +2509,9 @@
                 "to": {
                     "startLine": 217,
                     "startColumn": 4,
-                    "startOffset": 17656,
+                    "startOffset": 17634,
                     "endColumn": 54,
-                    "endOffset": 17706
+                    "endOffset": 17684
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/values/strings.xml"
@@ -2528,9 +2521,9 @@
                 "to": {
                     "startLine": 218,
                     "startColumn": 4,
-                    "startOffset": 17711,
+                    "startOffset": 17689,
                     "endColumn": 33,
-                    "endOffset": 17740
+                    "endOffset": 17718
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/values/strings.xml"
@@ -2540,9 +2533,9 @@
                 "to": {
                     "startLine": 219,
                     "startColumn": 4,
-                    "startOffset": 17745,
+                    "startOffset": 17723,
                     "endColumn": 45,
-                    "endOffset": 17786
+                    "endOffset": 17764
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/values/strings.xml"
@@ -2552,9 +2545,9 @@
                 "to": {
                     "startLine": 220,
                     "startColumn": 4,
-                    "startOffset": 17791,
+                    "startOffset": 17769,
                     "endColumn": 122,
-                    "endOffset": 17909
+                    "endOffset": 17887
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/values/strings.xml"
@@ -2564,9 +2557,9 @@
                 "to": {
                     "startLine": 221,
                     "startColumn": 4,
-                    "startOffset": 17914,
+                    "startOffset": 17892,
                     "endColumn": 49,
-                    "endOffset": 17959
+                    "endOffset": 17937
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/values/strings.xml"
@@ -2576,9 +2569,9 @@
                 "to": {
                     "startLine": 222,
                     "startColumn": 4,
-                    "startOffset": 17964,
+                    "startOffset": 17942,
                     "endColumn": 67,
-                    "endOffset": 18027
+                    "endOffset": 18005
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/values/strings.xml"
@@ -2588,9 +2581,9 @@
                 "to": {
                     "startLine": 223,
                     "startColumn": 4,
-                    "startOffset": 18032,
+                    "startOffset": 18010,
                     "endColumn": 56,
-                    "endOffset": 18084
+                    "endOffset": 18062
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/values/strings.xml"
@@ -2600,9 +2593,9 @@
                 "to": {
                     "startLine": 224,
                     "startColumn": 4,
-                    "startOffset": 18089,
+                    "startOffset": 18067,
                     "endColumn": 37,
-                    "endOffset": 18122
+                    "endOffset": 18100
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/values/strings.xml"
@@ -2612,9 +2605,9 @@
                 "to": {
                     "startLine": 225,
                     "startColumn": 4,
-                    "startOffset": 18127,
+                    "startOffset": 18105,
                     "endColumn": 59,
-                    "endOffset": 18182
+                    "endOffset": 18160
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/values/strings.xml"
@@ -2624,9 +2617,9 @@
                 "to": {
                     "startLine": 226,
                     "startColumn": 4,
-                    "startOffset": 18187,
+                    "startOffset": 18165,
                     "endColumn": 63,
-                    "endOffset": 18246
+                    "endOffset": 18224
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/values/strings.xml"
@@ -2636,9 +2629,9 @@
                 "to": {
                     "startLine": 227,
                     "startColumn": 4,
-                    "startOffset": 18251,
+                    "startOffset": 18229,
                     "endColumn": 55,
-                    "endOffset": 18302
+                    "endOffset": 18280
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/values/strings.xml"
@@ -2648,9 +2641,9 @@
                 "to": {
                     "startLine": 228,
                     "startColumn": 4,
-                    "startOffset": 18307,
+                    "startOffset": 18285,
                     "endColumn": 59,
-                    "endOffset": 18362
+                    "endOffset": 18340
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/values/strings.xml"
@@ -2660,9 +2653,9 @@
                 "to": {
                     "startLine": 229,
                     "startColumn": 4,
-                    "startOffset": 18367,
+                    "startOffset": 18345,
                     "endColumn": 54,
-                    "endOffset": 18417
+                    "endOffset": 18395
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/values/strings.xml"
@@ -2672,9 +2665,9 @@
                 "to": {
                     "startLine": 230,
                     "startColumn": 4,
-                    "startOffset": 18422,
+                    "startOffset": 18400,
                     "endColumn": 49,
-                    "endOffset": 18467
+                    "endOffset": 18445
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/values/strings.xml"
@@ -2684,9 +2677,9 @@
                 "to": {
                     "startLine": 231,
                     "startColumn": 4,
-                    "startOffset": 18472,
+                    "startOffset": 18450,
                     "endColumn": 45,
-                    "endOffset": 18513
+                    "endOffset": 18491
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/values/strings.xml"
@@ -2696,9 +2689,9 @@
                 "to": {
                     "startLine": 232,
                     "startColumn": 4,
-                    "startOffset": 18518,
+                    "startOffset": 18496,
                     "endColumn": 48,
-                    "endOffset": 18562
+                    "endOffset": 18540
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/values/strings.xml"
@@ -2708,9 +2701,9 @@
                 "to": {
                     "startLine": 233,
                     "startColumn": 4,
-                    "startOffset": 18567,
+                    "startOffset": 18545,
                     "endColumn": 99,
-                    "endOffset": 18662
+                    "endOffset": 18640
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/values/strings.xml"
@@ -2720,10 +2713,10 @@
                 "to": {
                     "startLine": 234,
                     "startColumn": 4,
-                    "startOffset": 18667,
+                    "startOffset": 18645,
                     "endLine": 236,
                     "endColumn": 10,
-                    "endOffset": 18734
+                    "endOffset": 18712
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/values/strings.xml"
@@ -2733,10 +2726,10 @@
                 "to": {
                     "startLine": 237,
                     "startColumn": 4,
-                    "startOffset": 18739,
+                    "startOffset": 18717,
                     "endLine": 239,
                     "endColumn": 10,
-                    "endOffset": 18819
+                    "endOffset": 18797
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/values/strings.xml"
@@ -2746,10 +2739,10 @@
                 "to": {
                     "startLine": 240,
                     "startColumn": 4,
-                    "startOffset": 18824,
+                    "startOffset": 18802,
                     "endLine": 242,
                     "endColumn": 10,
-                    "endOffset": 18909
+                    "endOffset": 18887
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/values/strings.xml"
@@ -2759,9 +2752,9 @@
                 "to": {
                     "startLine": 243,
                     "startColumn": 4,
-                    "startOffset": 18914,
+                    "startOffset": 18892,
                     "endColumn": 74,
-                    "endOffset": 18984
+                    "endOffset": 18962
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/values/strings.xml"
@@ -2771,9 +2764,9 @@
                 "to": {
                     "startLine": 244,
                     "startColumn": 4,
-                    "startOffset": 18989,
+                    "startOffset": 18967,
                     "endColumn": 43,
-                    "endOffset": 19028
+                    "endOffset": 19006
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/values/strings.xml"
@@ -2783,9 +2776,9 @@
                 "to": {
                     "startLine": 245,
                     "startColumn": 4,
-                    "startOffset": 19033,
+                    "startOffset": 19011,
                     "endColumn": 97,
-                    "endOffset": 19126
+                    "endOffset": 19104
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/values/strings.xml"
@@ -2795,9 +2788,9 @@
                 "to": {
                     "startLine": 246,
                     "startColumn": 4,
-                    "startOffset": 19131,
+                    "startOffset": 19109,
                     "endColumn": 43,
-                    "endOffset": 19170
+                    "endOffset": 19148
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/values/strings.xml"
@@ -2807,9 +2800,9 @@
                 "to": {
                     "startLine": 247,
                     "startColumn": 4,
-                    "startOffset": 19175,
+                    "startOffset": 19153,
                     "endColumn": 71,
-                    "endOffset": 19242
+                    "endOffset": 19220
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/values/strings.xml"
@@ -2819,9 +2812,9 @@
                 "to": {
                     "startLine": 248,
                     "startColumn": 4,
-                    "startOffset": 19247,
+                    "startOffset": 19225,
                     "endColumn": 92,
-                    "endOffset": 19335
+                    "endOffset": 19313
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/values/strings.xml"
@@ -2831,9 +2824,9 @@
                 "to": {
                     "startLine": 249,
                     "startColumn": 4,
-                    "startOffset": 19340,
+                    "startOffset": 19318,
                     "endColumn": 96,
-                    "endOffset": 19432
+                    "endOffset": 19410
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/values/strings.xml"
@@ -2843,9 +2836,9 @@
                 "to": {
                     "startLine": 250,
                     "startColumn": 4,
-                    "startOffset": 19437,
+                    "startOffset": 19415,
                     "endColumn": 57,
-                    "endOffset": 19490
+                    "endOffset": 19468
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/values/strings.xml"
@@ -2855,9 +2848,9 @@
                 "to": {
                     "startLine": 251,
                     "startColumn": 4,
-                    "startOffset": 19495,
+                    "startOffset": 19473,
                     "endColumn": 64,
-                    "endOffset": 19555
+                    "endOffset": 19533
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/values/strings.xml"
@@ -2867,9 +2860,9 @@
                 "to": {
                     "startLine": 252,
                     "startColumn": 4,
-                    "startOffset": 19560,
+                    "startOffset": 19538,
                     "endColumn": 64,
-                    "endOffset": 19620
+                    "endOffset": 19598
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/values/strings.xml"
@@ -2879,9 +2872,9 @@
                 "to": {
                     "startLine": 253,
                     "startColumn": 4,
-                    "startOffset": 19625,
-                    "endColumn": 49,
-                    "endOffset": 19670
+                    "startOffset": 19603,
+                    "endColumn": 45,
+                    "endOffset": 19644
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/values/strings.xml"
@@ -2891,9 +2884,9 @@
                 "to": {
                     "startLine": 254,
                     "startColumn": 4,
-                    "startOffset": 19675,
+                    "startOffset": 19649,
                     "endColumn": 43,
-                    "endOffset": 19714
+                    "endOffset": 19688
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/values/strings.xml"
@@ -2903,9 +2896,9 @@
                 "to": {
                     "startLine": 255,
                     "startColumn": 4,
-                    "startOffset": 19719,
+                    "startOffset": 19693,
                     "endColumn": 52,
-                    "endOffset": 19767
+                    "endOffset": 19741
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/values/strings.xml"
@@ -2915,9 +2908,9 @@
                 "to": {
                     "startLine": 256,
                     "startColumn": 4,
-                    "startOffset": 19772,
+                    "startOffset": 19746,
                     "endColumn": 266,
-                    "endOffset": 20034
+                    "endOffset": 20008
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/values/strings.xml"
@@ -2927,9 +2920,9 @@
                 "to": {
                     "startLine": 257,
                     "startColumn": 4,
-                    "startOffset": 20039,
+                    "startOffset": 20013,
                     "endColumn": 43,
-                    "endOffset": 20078
+                    "endOffset": 20052
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/values/strings.xml"
@@ -2939,9 +2932,9 @@
                 "to": {
                     "startLine": 258,
                     "startColumn": 4,
-                    "startOffset": 20083,
+                    "startOffset": 20057,
                     "endColumn": 49,
-                    "endOffset": 20128
+                    "endOffset": 20102
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/values/strings.xml"
@@ -2951,9 +2944,9 @@
                 "to": {
                     "startLine": 259,
                     "startColumn": 4,
-                    "startOffset": 20133,
+                    "startOffset": 20107,
                     "endColumn": 50,
-                    "endOffset": 20179
+                    "endOffset": 20153
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/values/strings.xml"
@@ -2963,10 +2956,10 @@
                 "to": {
                     "startLine": 260,
                     "startColumn": 4,
-                    "startOffset": 20184,
+                    "startOffset": 20158,
                     "endLine": 261,
                     "endColumn": 12,
-                    "endOffset": 20258
+                    "endOffset": 20232
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/values/styles.xml"
@@ -2976,10 +2969,10 @@
                 "to": {
                     "startLine": 262,
                     "startColumn": 4,
-                    "startOffset": 20263,
+                    "startOffset": 20237,
                     "endLine": 264,
                     "endColumn": 12,
-                    "endOffset": 20391
+                    "endOffset": 20365
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/values/styles.xml"
@@ -2989,10 +2982,10 @@
                 "to": {
                     "startLine": 265,
                     "startColumn": 4,
-                    "startOffset": 20396,
+                    "startOffset": 20370,
                     "endLine": 268,
                     "endColumn": 12,
-                    "endOffset": 20618
+                    "endOffset": 20592
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/values/styles.xml"
@@ -3002,10 +2995,10 @@
                 "to": {
                     "startLine": 269,
                     "startColumn": 4,
-                    "startOffset": 20623,
+                    "startOffset": 20597,
                     "endLine": 272,
                     "endColumn": 10,
-                    "endOffset": 20807
+                    "endOffset": 20781
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/values/styles.xml"
@@ -3015,10 +3008,10 @@
                 "to": {
                     "startLine": 273,
                     "startColumn": 4,
-                    "startOffset": 20812,
+                    "startOffset": 20786,
                     "endLine": 277,
                     "endColumn": 12,
-                    "endOffset": 21065
+                    "endOffset": 21039
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/values/styles.xml"
@@ -3028,10 +3021,10 @@
                 "to": {
                     "startLine": 278,
                     "startColumn": 4,
-                    "startOffset": 21070,
+                    "startOffset": 21044,
                     "endLine": 287,
                     "endColumn": 12,
-                    "endOffset": 21744
+                    "endOffset": 21718
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/exploded-aar/BICSI/facebookSDK/unspecified/res/values/values.xml"
@@ -3041,10 +3034,10 @@
                 "to": {
                     "startLine": 288,
                     "startColumn": 4,
-                    "startOffset": 21749,
+                    "startOffset": 21723,
                     "endLine": 296,
                     "endColumn": 12,
-                    "endOffset": 22241
+                    "endOffset": 22215
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/exploded-aar/BICSI/facebookSDK/unspecified/res/values/values.xml"
@@ -3054,10 +3047,10 @@
                 "to": {
                     "startLine": 297,
                     "startColumn": 4,
-                    "startOffset": 22246,
+                    "startOffset": 22220,
                     "endLine": 300,
                     "endColumn": 12,
-                    "endOffset": 22401
+                    "endOffset": 22375
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/src/main/res/values/styles.xml"
@@ -3067,10 +3060,10 @@
                 "to": {
                     "startLine": 301,
                     "startColumn": 4,
-                    "startOffset": 22406,
+                    "startOffset": 22380,
                     "endLine": 308,
                     "endColumn": 12,
-                    "endOffset": 22761
+                    "endOffset": 22735
                 },
                 "from": {
                     "file": "/Users/barry/Documents/Canada2017AndroidApp/BICSI/bICSI/build/intermediates/exploded-aar/BICSI/facebookSDK/unspecified/res/values/values.xml"
